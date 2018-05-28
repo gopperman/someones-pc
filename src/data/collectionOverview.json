@@ -5,15 +5,15 @@
     "display": "#"
   },
   {
-    "key": "name",
-    "type": "text",
-    "display": "Pokémon"
-  },
-  {
     "key": "sprite",
     "type": "text",
     "display": "",
     "displayType": "image"
+  },
+  {
+    "key": "name",
+    "type": "text",
+    "display": "Pokémon"
   },
   {
     "key": "hiddenAbility",

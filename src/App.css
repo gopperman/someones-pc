@@ -37,7 +37,8 @@
   width: 100%;
   border-spacing: 0;
   font-size: .8em;
-  font-weight: bold; }
+  font-weight: bold;
+  text-align: center; }
   .pkmnList__header {
     background: #222;
     color: #fff; }
