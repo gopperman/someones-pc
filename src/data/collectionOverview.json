@@ -45,7 +45,7 @@
   "data": [
     {
       "number": "001",
-      "sprite": "img/pokemon/001.png",
+      "sprite": "pokemon/regular/bulbasaur.png",
       "name": "bulbasaur",
       "hiddenAbility": "Chlorophyll",
       "pokeBall": "true",
@@ -55,7 +55,7 @@
     },
     {
       "number": "004",
-      "sprite": "pokemon/004.png",
+      "sprite": "pokemon/regular/charmander.png",
       "name": "charmander",
       "hiddenAbility": "Solar Power",
       "pokeBall": "true",
