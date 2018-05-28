@@ -1,5 +1,16 @@
+/**
+ * variables.scss
+ * Use this file to store commonly used variables
+ */
+/**
+ * Layout
+ */
+/**
+ * Style
+ */
 .container {
   display: block;
   margin: 0 auto;
   max-width: 990px;
+  padding: 0 15px;
   width: 100%; }
