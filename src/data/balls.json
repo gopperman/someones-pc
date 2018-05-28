@@ -1,0 +1,122 @@
+[
+  {
+    "id": "poke",
+    "displayName": "Poké Ball",
+    "category": "shop"
+  },
+  {
+    "id": "great",
+    "displayName": "Great Ball",
+    "category": "shop"
+  },
+  {
+    "id": "ultra",
+    "displayName": "Ultra Ball",
+    "category": "shop"
+  },
+  {
+    "id": "premier",
+    "displayName": "Premier Ball",
+    "category": "shop"
+  },
+  {
+    "id": "dive",
+    "displayName": "Dive Ball",
+    "category": "shop"
+  },
+  {
+    "id": "luxury",
+    "displayName": "Luxury Ball",
+    "category": "shop"
+  },
+  {
+    "id": "nest",
+    "displayName": "Nest Ball",
+    "category": "shop"
+  },
+  {
+    "id": "net",
+    "displayName": "Net Ball",
+    "category": "shop"
+  },
+  {
+    "id": "repeat",
+    "displayName": "Repeat Ball",
+    "category": "shop"
+  },
+  {
+    "id": "timer",
+    "displayName": "Timer Ball",
+    "category": "shop"
+  },
+  {
+    "id": "dusk",
+    "displayName": "Dusk Ball",
+    "category": "shop"
+  },
+  {
+    "id": "heal",
+    "displayName": "Heal Ball",
+    "category": "shop"
+  },
+  {
+    "id": "quick",
+    "displayName": "Quick Ball",
+    "category": "shop"
+  },
+  {
+    "id": "fast",
+    "displayName": "Fast Ball",
+    "category": "apricorn"
+  },
+  {
+    "id": "friend",
+    "displayName": "Friend Ball",
+    "category": "apricorn"
+  },
+  {
+    "id": "heavy",
+    "displayName": "Heavy Ball",
+    "category": "apricorn"
+  },
+  {
+    "id": "level",
+    "displayName": "Level Ball",
+    "category": "apricorn"
+  },
+  {
+    "id": "love",
+    "displayName": "Love Ball",
+    "category": "apricorn"
+  },
+  {
+    "id": "lure",
+    "displayName": "Lure Ball",
+    "category": "apricorn"
+  },
+  {
+    "id": "moon",
+    "displayName": "Moon Ball",
+    "category": "apricorn"
+  },
+  {
+    "id": "safari",
+    "displayName": "Safari Ball",
+    "category": "other"
+  },
+  {
+    "id": "sport",
+    "displayName": "Sport Ball",
+    "category": "other"
+  },
+  {
+    "id": "dream",
+    "displayName": "Dream Ball",
+    "category": "other"
+  },
+  {
+    "id": "beast",
+    "displayName": "Beast Ball",
+    "category": "other"
+  }
+]
