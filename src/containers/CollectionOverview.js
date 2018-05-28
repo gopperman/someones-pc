@@ -1,20 +1,33 @@
-import React, { Component } from 'react'
+import React from 'react'
 import _ from 'lodash'
+import { connect } from 'react-redux'
 import Table from '../components/Table'
-import collection from '../data/collectionOverview.json'
+import fields from '../data/collectionOverview.json'
+import { getBallHeaders } from '../utils/balls.js'
 
-class CollectionOverview extends Component {
 
-  render() {
-    const headers = _.get(collection, 'headers', []),
-      data = _.get(collection, 'data', [])
+const CollectionOverview = ({balls, collection}) => {
 
-    return (
-      <div>
-        <Table headers={headers} data={data} />
-      </div>
-    )
+  const createHeaders = () => {
+    return [
+      ...fields,
+      ...getBallHeaders()
+    ]
+  }
+
+  console.log(createHeaders())
+  return (
+    <div>
+      <Table headers={createHeaders()} data={collection} />
+    </div>
+  )
+}
+
+
+const mapStateToProps = (state) => {
+  return {
+    collection: state.collection
   }
 }
 
-export default CollectionOverview
+export default connect(mapStateToProps)(CollectionOverview);

@@ -1,0 +1,22 @@
+[
+  {
+    "number": "001",
+    "sprite": "pokemon/regular/bulbasaur.png",
+    "name": "bulbasaur",
+    "hiddenAbility": "Chlorophyll",
+    "pokeBall": "true",
+    "greatBall": "false",
+    "dreamBall": "ha",
+    "gender": 11.9
+  },
+  {
+    "number": "004",
+    "sprite": "pokemon/regular/charmander.png",
+    "name": "charmander",
+    "hiddenAbility": "Solar Power",
+    "pokeBall": "true",
+    "greatBall": "false",
+    "dreamBall": "true",
+    "gender": 11.9
+  }
+]

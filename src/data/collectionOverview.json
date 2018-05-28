@@ -1,67 +1,28 @@
-{
-  "headers": [
-    {
-      "key": "number",
-      "type": "text",
-      "display": "#"
-    },
-    {
-      "key": "name",
-      "type": "text",
-      "display": "Pokémon"
-    },
-    {
-      "key": "sprite",
-      "type": "text",
-      "display": "",
-      "displayType": "image"
-    },
-    {
-      "key": "hiddenAbility",
-      "type": "text",
-      "display": "Hidden Ability"
-    },
-    {
-      "key": "gender",
-      "type": "text",
-      "display": "♀ Ratio"
-    },
-    {
-      "key": "pokeBall",
-      "type": "image",
-      "display": "balls/poke.png"
-    },
-    {
-      "key": "greatBall",
-      "type": "image",
-      "display": "balls/great.png"
-    },
-    {
-      "key": "dreamBall",
-      "type": "image",
-      "display": "balls/dream.png"
-    }
-  ],
-  "data": [
-    {
-      "number": "001",
-      "sprite": "pokemon/regular/bulbasaur.png",
-      "name": "bulbasaur",
-      "hiddenAbility": "Chlorophyll",
-      "pokeBall": "true",
-      "greatBall": "false",
-      "dreamBall": "ha",
-      "gender": 11.9
-    },
-    {
-      "number": "004",
-      "sprite": "pokemon/regular/charmander.png",
-      "name": "charmander",
-      "hiddenAbility": "Solar Power",
-      "pokeBall": "true",
-      "greatBall": "false",
-      "dreamBall": "true",
-      "gender": 11.9
-    }
-  ]
-}
+[
+  {
+    "key": "number",
+    "type": "text",
+    "display": "#"
+  },
+  {
+    "key": "name",
+    "type": "text",
+    "display": "Pokémon"
+  },
+  {
+    "key": "sprite",
+    "type": "text",
+    "display": "",
+    "displayType": "image"
+  },
+  {
+    "key": "hiddenAbility",
+    "type": "text",
+    "display": "Hidden Ability"
+  },
+  {
+    "key": "gender",
+    "type": "text",
+    "display": "♀ Ratio"
+  }
+]
