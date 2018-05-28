@@ -8,7 +8,7 @@ const getBallHeaders = () => {
   return balls.map((ball) => {
     return {
       key: ball.id,
-      type: 'image',
+      type: 'ball',
       url: `balls/${ball.id}.png`,
       alt: ball.displayName
     }

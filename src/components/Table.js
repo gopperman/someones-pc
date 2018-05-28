@@ -4,24 +4,29 @@ import TableHeader from './TableHeader.js'
 
 const Table = ({headers, data}) => {
   return (
-    <table className="pkmnList container">
+    <table className="pkmnList">
       <TableHeader headers={headers} />
       <tbody>
-        {data.map((d,i) =>
-          <tr key={i}>
-            {headers.map((h,j) => {
-              const displayType = _.get(h, 'displayType', ''),
-                key = _.get(h, 'key', '')
+        {data.map((d,i) => {
+          return (
+            <tr className="pkmnList__row" key={i}>
+              {headers.map((h,j) => {
+                const displayType = _.get(h, 'displayType', ''),
+                  key = _.get(h, 'key', ''),
+                  classes = `pkmnList__cell ${(h.type === 'ball') ? 'pkmnList__cell--ball' : ''}`
 
-              return (<th key={j}>
-               {displayType === 'image' ?
-                (<img src={`/img/${_.get(d, key, '')}`} alt={key} />) :
-                  (_.get(d, h.key, ''))
-                }
-              </th>)
-            })}
-          </tr>
-        )
+                return (
+                  <td key={j} className={classes}>
+                   {displayType === 'image' ?
+                    (<img src={`/img/${_.get(d, key, '')}`} alt={key} />) :
+                      (_.get(d, h.key, ''))
+                    }
+                  </td>
+                )
+              })}
+            </tr>
+          )
+        })
         }
       </tbody>
     </table>

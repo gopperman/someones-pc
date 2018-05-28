@@ -2,7 +2,7 @@
   {
     "number": "001",
     "sprite": "pokemon/regular/bulbasaur.png",
-    "name": "bulbasaur",
+    "name": "Bulbasaur",
     "hiddenAbility": "Chlorophyll",
     "pokeBall": "true",
     "greatBall": "false",
@@ -12,7 +12,7 @@
   {
     "number": "004",
     "sprite": "pokemon/regular/charmander.png",
-    "name": "charmander",
+    "name": "Charmander",
     "hiddenAbility": "Solar Power",
     "pokeBall": "true",
     "greatBall": "false",

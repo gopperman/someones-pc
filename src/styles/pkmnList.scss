@@ -1,0 +1,45 @@
+@import './mixins.scss';
+@import './variables.scss';
+
+$module: 'pkmnList';
+
+.#{$module} {
+  @include contain(base);
+  border-spacing: 0;
+  font-size: .8em;
+  font-weight: bold;
+
+
+  &__header {
+    background: $black;
+    color: $white;
+  }
+
+  &__row {
+
+    &:nth-child(2n) {
+      background: $gray-lightest;
+    }
+    &:nth-child(2n + 1) {
+      background: $gray-lighter;
+    }
+  }
+
+  &__cell {
+    border-bottom: 1px solid $gray-darker;
+    padding: spacer(xs);
+
+    &:first-child {
+      border-left: 1px solid $gray-darker;
+    }
+
+    &--ball {
+      background: rgba($red, .8);
+      border-left: 1px solid $gray-darker;
+
+      &:last-child {
+        border-right: 1px solid $gray-darker;
+      }
+    }
+  }
+}

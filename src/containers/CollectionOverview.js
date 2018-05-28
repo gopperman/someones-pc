@@ -1,5 +1,4 @@
 import React from 'react'
-import _ from 'lodash'
 import { connect } from 'react-redux'
 import Table from '../components/Table'
 import fields from '../data/collectionOverview.json'
@@ -15,7 +14,6 @@ const CollectionOverview = ({balls, collection}) => {
     ]
   }
 
-  console.log(createHeaders())
   return (
     <div>
       <Table headers={createHeaders()} data={collection} />
