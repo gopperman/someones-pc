@@ -4,7 +4,7 @@ import _ from 'lodash'
 
 const Table = ({headers, data}) => {
   return (
-    <table className="pkmnList">
+    <table className="pkmnList container">
       <thead>
         {headers.map((h) =>
           <th>

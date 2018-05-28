@@ -1,0 +1,117 @@
+@import './variables.scss';
+
+/**
+ * Layout
+ */
+$spacers: (
+  'xs': 5px,
+  'sm': 10px,
+  'base': 15px, // Bootstrap default
+  'md': 25px,
+  'lg': 50px,
+  'xl': 100px
+);
+
+$container-sizes: (
+  'sm': 525px,
+  'md': 725px,
+  'base': 1170px
+);
+
+@function spacer($size: 'base') {
+  // If size isn't in the map, just return the size.
+  @if not map-has-key($spacers, $size) {
+    @return $size;
+  }
+  @return map-get($spacers, $size);
+}
+
+@function container-size($size: 'base') {
+  // If size isn't in the map, just return the size.
+  @if not map-has-key($container-sizes, $size) {
+    @return $size;
+  }
+  @return map-get($container-sizes, $size);
+}
+
+@mixin contain($max-width: none) {
+  display: block;
+  margin: 0 auto;
+  max-width: container-size($max-width);
+  padding: 0 15px;
+  width: 100%;
+}
+
+
+@mixin column-grid($columns: 1) {
+  display: grid;
+  grid-auto-flow: row;
+  grid-gap: spacer(md);
+  grid-template-columns: repeat($columns, 1fr);
+  grid-template-rows: auto;
+}
+
+@mixin column-grid-items($columns: 1) {
+  @for $i from 1 through $columns {
+    .#{$module} {
+      &__item {
+        &--col-#{$i} {
+          grid-column: $i;
+        }
+        &--span-#{$i} {
+          grid-column-end: span $i;
+        }
+      }
+    }
+  }
+}
+
+/**
+ * Style
+ */
+@mixin hed-style($size: 38px) {
+  font-size: $size;
+  font-weight: bold;
+  line-height: 1.2em;
+  margin: 0 0 spacer(md) 0;
+}
+@mixin link-style($color: $brand-teal, $text-decoration: none) {
+  color: $color;
+  font-weight: bold;
+  text-decoration: $text-decoration;
+
+  &:hover, &:active, &:focus {
+    color: $color;
+    text-decoration: $text-decoration;
+  }
+}
+
+@mixin button-style($background: $brand-orange, $width: 100%) {
+  background: $background;
+  border-radius: 4px;
+  color: $white;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 12px 30px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: background, .2s;
+  width: $width;
+
+  &:hover, &:active, &:focus {
+    background: lighten($background, 10%);
+    cursor: pointer;
+    @include link-style($white);
+  }
+}
+
+@mixin button-round( $size, $background: $brand-orange ) {
+  @include button-style( $background, $size );
+  border-radius: 50%;
+  height: $size;
+  line-height: $size;
+  font-size: $size * .75;
+  padding: 0;
+}

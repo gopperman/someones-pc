@@ -1,0 +1,5 @@
+$module: 'container';
+
+.#{$module} {
+  @include contain(990px);
+}

@@ -1,0 +1,72 @@
+/**
+ * variables.scss
+ * Use this file to store commonly used variables
+ */
+
+//== Breakpoints
+$breakpoint-sm: 480px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 990px;
+
+//== Colors
+$black: #222;
+$white: #fff;
+
+//## Gray and brand colors for use across Bootstrap.
+$gray-base:              #000 !default;
+$gray-darker:            #222 !default;
+$gray-dark:              #333 !default;
+$gray:                   #555 !default;
+$gray-light:             #777 !default;
+$gray-lighter:           #CCC !default;
+$gray-lightest:          #F5F5F5 !default; // whitesmoke
+
+
+$brand-dark-blue:       #104DA1;
+$brand-medium-blue:     #3462C3;
+$brand-light-blue:      #6CA8C8;
+$brand-teal:            #30A3AF;
+$brand-green:           #29D58F;
+$brand-light-yellow:    #F8C065;
+$brand-yellow:          #FFAA1F;
+$brand-dark-yellow:     #EF9A1B;
+$brand-pink:            #FF537A;
+$brand-purple:          #9B91F8;
+$brand-orange:          #EF7128;
+$brand-light-navy:      #507C94;
+$brand-navy:            #184D69;
+$brand-red:             #d0021b;
+
+$brand-primary:         $brand-teal;
+$brand-success:         $brand-green;
+$brand-info:            $brand-medium-blue;
+$brand-warning:         $brand-yellow;
+$brand-danger:          $brand-pink;
+
+//== Scaffolding
+$body-bg: #fff;
+
+//** Global text color on `<body>`.
+$text-color:            #5E5E5E;
+
+//** Global textual link color.
+$link-color:            $brand-primary !default;
+//** Link hover color set via `darken()` function.
+$link-hover-color:      darken($link-color, 15%) !default;
+//** Link hover decoration.
+$link-hover-decoration: underline !default;
+
+
+//== Typography
+$font-family-sans-serif:  'Roboto', sans-serif;
+$font-family-base:        $font-family-sans-serif;
+$font-size-base:          16px !default;
+$headings-font-family:    'Roboto', 'Open Sans', sans-serif;
+$headings-font-weight:    'bold';
+
+$font-size-h1:            1.875em;
+$font-size-h2:            1.250em;
+$font-size-h3:            1.125em;
+$font-size-h4:            $font-size-base;
+$font-size-h5:            $font-size-base;
+$font-size-h6:            ceil(($font-size-base * 0.85));
