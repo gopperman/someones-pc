@@ -1,2 +1,28 @@
+@import 'styles/mixins.scss';
 @import 'styles/container.scss';
+@import 'styles/searchstring.scss';
 @import 'styles/pkmnList.scss';
+
+$black: #222;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #f0f0f0;
+}
+
+#root {
+  @extend %font-style;
+  padding: 50px 0;
+}
+
+textarea {
+  @extend %font-style;
+  border: 3px solid $black;
+  display: inline-block;
+  min-height: 4em;
+  padding: spacer(sm);
+  width: 100%;
+}

@@ -1,6 +1,15 @@
 @import './variables.scss';
 
 /**
+ * Typography
+ */
+%font-style {
+  font-family: "Lucida Console", monospace;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/**
  * Layout
  */
 $spacers: (

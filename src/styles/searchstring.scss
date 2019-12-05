@@ -1,0 +1,42 @@
+@import './mixins.scss';
+
+$module: 'searchstring';
+
+.#{$module} {
+  &__form {
+    display: grid;
+    grid-gap: spacer(xs);
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+  &__input {
+    display: none;
+
+    &:checked + .#{$module}__pkmn {
+      background: rgba($brand-green, .2);
+
+      &:before {
+        content: ">";
+      }
+    }
+  }
+
+  &__pkmn {
+    margin: 0;
+    padding: spacer(xs);
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    img {
+      vertical-align: middle;
+    }
+  }
+
+  &__label {
+    &:hover {
+      cursor: hand;
+    }
+  }
+}

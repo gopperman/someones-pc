@@ -3,6 +3,32 @@
  * Use this file to store commonly used variables
  */
 /**
+ * Typography
+ */
+#root, textarea {
+  font-family: "Lucida Console", monospace;
+  font-weight: bold;
+  font-size: 18px; }
+
+/**
+ * Layout
+ */
+/**
+ * Style
+ */
+/**
+ * variables.scss
+ * Use this file to store commonly used variables
+ */
+/**
+ * Typography
+ */
+#root, textarea {
+  font-family: "Lucida Console", monospace;
+  font-weight: bold;
+  font-size: 18px; }
+
+/**
  * Layout
  */
 /**
@@ -19,6 +45,55 @@
  * variables.scss
  * Use this file to store commonly used variables
  */
+/**
+ * Typography
+ */
+#root, textarea {
+  font-family: "Lucida Console", monospace;
+  font-weight: bold;
+  font-size: 18px; }
+
+/**
+ * Layout
+ */
+/**
+ * Style
+ */
+.searchstring__form {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr; }
+
+.searchstring__input {
+  display: none; }
+  .searchstring__input:checked + .searchstring__pkmn {
+    background: rgba(41, 213, 143, 0.2); }
+    .searchstring__input:checked + .searchstring__pkmn:before {
+      content: ">"; }
+
+.searchstring__pkmn {
+  margin: 0;
+  padding: 5px; }
+  .searchstring__pkmn:hover {
+    cursor: pointer; }
+  .searchstring__pkmn img {
+    vertical-align: middle; }
+
+.searchstring__label:hover {
+  cursor: hand; }
+
+/**
+ * variables.scss
+ * Use this file to store commonly used variables
+ */
+/**
+ * Typography
+ */
+#root, textarea {
+  font-family: "Lucida Console", monospace;
+  font-weight: bold;
+  font-size: 18px; }
+
 /**
  * Layout
  */
@@ -56,3 +131,19 @@
       border-left: 1px solid #222; }
       .pkmnList__cell--ball:last-child {
         border-right: 1px solid #222; }
+
+* {
+  box-sizing: border-box; }
+
+body {
+  background: #f0f0f0; }
+
+#root {
+  padding: 50px 0; }
+
+textarea {
+  border: 3px solid #222;
+  display: inline-block;
+  min-height: 4em;
+  padding: 10px;
+  width: 100%; }
