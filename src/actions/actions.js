@@ -1,12 +1,12 @@
-import collection from '../data/collection.json'
-
-const initialState = {
-  collection: collection,
+const selectPKMN = (payload) => {
+  return { type: "SELECT_PKMN", payload }
 }
 
-const actions = {}
+const deselectPKMN = (payload) => {
+  return { type: "DESELECT_PKMN", payload }
+}
 
 export {
-  actions,
-  initialState
+  selectPKMN,
+  deselectPKMN
 }

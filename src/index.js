@@ -1,17 +1,15 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import './index.css';
-import { Provider } from 'react-redux';
-import { store, persistor } from './store';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import { Provider } from 'react-redux'
+import store from './store'
+import App from './App'
+import './index.css'
+//import { selectPKMN } from './actions/actions'
 
-import { PersistGate } from 'redux-persist/integration/react'
+const ui =
+  <Provider store={store}>
+    <App />
+  </Provider>
 
-let ui =
-    <Provider store={ store }>
-        <PersistGate loading={null} persistor={persistor}>
-            <App />
-        </PersistGate>
-    </Provider>
 
-ReactDOM.render(ui, document.getElementById('root'));
+ReactDOM.render(ui, document.getElementById('root'))

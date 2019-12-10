@@ -1,10 +1,23 @@
-import { actions, initialState } from './actions/actions';
+const initialState = {
+  selectedPKMN: [1,4,10,14]
+}
 
-let fallback = (state, action) => state;
+function rootReducer(state = initialState, action) {
+  switch (action.type) {
+    case "SELECT_PKMN":
+      return (!state.selectedPKMN.includes(action.payload)) ?
+        Object.assign({}, state, {
+          selectedPKMN: state.selectedPKMN.concat(action.payload)
+        }) : state
 
-let reducer = (oldState = initialState, action) => {
-    let babyReducer = actions[action.type] || fallback;
-    return babyReducer(oldState, action);
-};
+    case "DESELECT_PKMN":
+      return {
+        selectedPKMN: state.selectedPKMN.filter( id => id !== +action.payload )
+      }
 
-export default reducer;
+    default:
+      return state
+  }
+}
+
+export default rootReducer

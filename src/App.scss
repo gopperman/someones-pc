@@ -1,3 +1,4 @@
+@import 'styles/variables.scss';
 @import 'styles/mixins.scss';
 @import 'styles/container.scss';
 @import 'styles/searchstring.scss';
@@ -10,7 +11,8 @@ $black: #222;
 }
 
 body {
-  background: #f0f0f0;
+  background: $background;
+  padding-bottom: spacer(xl);
 }
 
 #root {

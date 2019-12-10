@@ -1,8 +1,18 @@
+@import './variables.scss';
 @import './mixins.scss';
 
 $module: 'searchstring';
 
 .#{$module} {
+  &__container {
+    background: $background;
+    padding: spacer(xs);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
   &__form {
     display: grid;
     grid-gap: spacer(xs);
