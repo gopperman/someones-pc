@@ -5,11 +5,12 @@ const initialState = {
 function rootReducer(state = initialState, action) {
   switch (action.type) {
     case "SELECT_PKMN":
-      return (!state.selectedPKMN.includes(action.payload)) ?
-        Object.assign({}, state, {
-          selectedPKMN: state.selectedPKMN.concat(action.payload)
-        }) : state
-
+      return {
+          selectedPKMN: [
+            ...state.selectedPKMN,
+            +action.payload
+          ].sort( (a, b) => a - b )
+        }
     case "DESELECT_PKMN":
       return {
         selectedPKMN: state.selectedPKMN.filter( id => id !== +action.payload )

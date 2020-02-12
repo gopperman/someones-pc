@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import { selectPKMN, deselectPKMN } from '../../actions/actions';
+import { selectPKMN, deselectPKMN } from '../../actions/actions'
 import pokedex from '../../data/pokedex.json'
 
 class SearchStringForm extends Component {
@@ -8,26 +8,23 @@ class SearchStringForm extends Component {
     super(props)
     this.form = null
 
-    this.state = {
-      selectedPKMN: this.props.selectedPKMN
-    }
-
     this.setFormRef = element => {
       this.form = element
     }
 
     this.updateSearchString = this.updateSearchString.bind(this)
-    console.log(this.props)
   }
 
   updateSearchString(event) {
     if (event.target.checked) {
-      console.log('add')
       this.props.selectPKMN(event.target.value)
     } else {
-      console.log('remove')
       this.props.deselectPKMN(event.target.value)
     }
+  }
+
+  shouldComponentUpdate(nextProps, nextState) {
+    return nextProps.selectedPKMN.length !== this.props.selectedPKMN.length
   }
 
   render() {
@@ -41,7 +38,7 @@ class SearchStringForm extends Component {
                   type="checkbox"
                   id={pkmn.id}
                   value={pkmn.id}
-                  checked={this.state.selectedPKMN.includes(pkmn.id)}
+                  checked={this.props.selectedPKMN.includes(pkmn.id)}
                   onChange={ this.updateSearchString } />
                 <p className="searchstring__pkmn">
                   <img src={`img/pokemon/regular/${pkmn.name.english.toLowerCase()}.png`} alt={`${pkmn.name.english} sprite`} />
