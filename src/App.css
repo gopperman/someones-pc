@@ -78,7 +78,8 @@
 .searchstring__form {
   display: grid;
   grid-gap: 5px;
-  grid-template-columns: 1fr; }
+  grid-template-columns: 1fr;
+  padding-bottom: 100px; }
 
 .searchstring__input {
   display: none; }

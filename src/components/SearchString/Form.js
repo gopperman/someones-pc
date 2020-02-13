@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { selectPKMN, deselectPKMN } from '../../actions/actions'
-import pokedex from '../../data/pokedex.json'
+import pokedex from '../../data/pokedex-go.json'
+import _ from 'lodash'
 
 class SearchStringForm extends Component {
   constructor(props) {
@@ -31,6 +32,9 @@ class SearchStringForm extends Component {
     return (
       <form className="searchstring__form" ref={this.setFormRef}>
         {pokedex.map( (pkmn) => {
+          const img = _.get(pkmn, 'img', false)
+          const imgSrc = img ? img : `img/pokemon/regular/${pkmn.name.english.toLowerCase()}.png`
+
           return (
               <label className="searchstring__label" htmlFor={pkmn.id} key={pkmn.id}>
                 <input
@@ -41,7 +45,7 @@ class SearchStringForm extends Component {
                   checked={this.props.selectedPKMN.includes(pkmn.id)}
                   onChange={ this.updateSearchString } />
                 <p className="searchstring__pkmn">
-                  <img src={`img/pokemon/regular/${pkmn.name.english.toLowerCase()}.png`} alt={`${pkmn.name.english} sprite`} />
+                  <img src={imgSrc} alt={`${pkmn.name.english} sprite`} />
                   {pkmn.name.english}
                 </p>
               </label>

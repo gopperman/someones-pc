@@ -1,5 +1,5 @@
 const initialState = {
-  selectedPKMN: [1,4,10,14]
+  selectedPKMN: []
 }
 
 function rootReducer(state = initialState, action) {

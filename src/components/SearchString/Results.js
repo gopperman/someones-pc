@@ -11,7 +11,7 @@ const SearchStringResults = ({ selectedPKMN }) => {
 
     copy(textbox.innerHTML)
 
-    textbox.value = '* Copied to Clipboard! *'
+    textbox.value = 'Copied to Clipboard!'
     setTimeout(() => {
       textbox.value = searchString
     }, 1200)

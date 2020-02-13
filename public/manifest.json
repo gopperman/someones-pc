@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Someone's PC",
+  "name": "Someone's PC",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "img/pokemon/regular/bulbasaur.png",
       "sizes": "192x192",
       "type": "image/png"
     }

@@ -17,6 +17,7 @@ $module: 'searchstring';
     display: grid;
     grid-gap: spacer(xs);
     grid-template-columns: 1fr;
+    padding-bottom:  spacer(xl);
   }
 
   &__input {
