@@ -16,7 +16,7 @@ $module: 'searchstring';
   &__form {
     display: grid;
     grid-gap: spacer(xs);
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 
   &__input {
@@ -47,6 +47,22 @@ $module: 'searchstring';
   &__label {
     &:hover {
       cursor: hand;
+    }
+  }
+}
+
+@media screen and (min-width: $breakpoint-sm) {
+  .#{$module} {
+    &__form {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}
+
+@media screen and (min-width: $breakpoint-md) {
+  .#{$module} {
+    &__form {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
     }
   }
 }

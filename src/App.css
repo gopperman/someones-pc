@@ -78,7 +78,7 @@
 .searchstring__form {
   display: grid;
   grid-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr 1fr; }
+  grid-template-columns: 1fr; }
 
 .searchstring__input {
   display: none; }
@@ -97,6 +97,14 @@
 
 .searchstring__label:hover {
   cursor: hand; }
+
+@media screen and (min-width: 480px) {
+  .searchstring__form {
+    grid-template-columns: 1fr 1fr; } }
+
+@media screen and (min-width: 768px) {
+  .searchstring__form {
+    grid-template-columns: 1fr 1fr 1fr 1fr; } }
 
 /**
  * variables.scss
