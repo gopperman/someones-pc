@@ -1,4 +1,6 @@
 import React from 'react'
+import Header from '../components/Header'
+import Footer from '../components/Footer'
 import SearchStringForm from '../components/SearchString/Form'
 import SearchStringResults from '../components/SearchString/Results'
 
@@ -6,10 +8,10 @@ import SearchStringResults from '../components/SearchString/Results'
 const SearchStringBuilder = () => {
   return (
     <div className="container">
-      <h1>Accessing Someone's PC...</h1>
-      <h2>> Pokémon Go Search String Builder</h2>
+      <Header />
       <SearchStringForm />
       <SearchStringResults />
+      <Footer />
     </div>
   )
 }

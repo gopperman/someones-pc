@@ -16,7 +16,6 @@ const App = () =>
           <Route path='/collection' component={ CollectionOverview } />
           <Route path='/collection/ball/:ball' component={ CollectionOverview } />
           <Route path='/collection/pkmn/:pokemon' component={ CollectionOverview } />
-
         </Switch>
     </div>
   </Router>
