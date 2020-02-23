@@ -1,5 +1,5 @@
 const initialState = {
-  selectedPKMN: []
+  selectedPKMN: JSON.parse(localStorage.getItem('selectedPKMN')) || []
 }
 
 function rootReducer(state = initialState, action) {

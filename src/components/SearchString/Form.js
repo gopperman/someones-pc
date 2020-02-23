@@ -28,6 +28,10 @@ class SearchStringForm extends Component {
     return nextProps.selectedPKMN.length !== this.props.selectedPKMN.length
   }
 
+  componentDidUpdate() {
+    localStorage.setItem('selectedPKMN', JSON.stringify(this.props.selectedPKMN))
+  }
+
   render() {
     return (
       <form className="searchstring__form" ref={this.setFormRef}>
