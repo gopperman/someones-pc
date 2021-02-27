@@ -6,7 +6,12 @@ const deselectPKMN = (payload) => {
   return { type: "DESELECT_PKMN", payload }
 }
 
+const clearPKMN = () => {
+  return { type: "CLEAR_PKMN"}
+}
+
 export {
   selectPKMN,
-  deselectPKMN
+  deselectPKMN,
+  clearPKMN
 }

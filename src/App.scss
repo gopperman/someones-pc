@@ -1,7 +1,9 @@
 @import 'styles/variables.scss';
 @import 'styles/mixins.scss';
+@import 'styles/clear.scss';
 @import 'styles/container.scss';
 @import 'styles/searchstring.scss';
+@import 'styles/settings.scss';
 @import 'styles/pkmnList.scss';
 
 $black: #222;
@@ -10,6 +12,13 @@ $black: #222;
   box-sizing: border-box;
 }
 
+#root {
+  @extend %font-style;
+  padding: 50px 0;
+}
+/**
+ * Layout
+ */
 body {
   background: $background;
   padding-bottom: spacer(xl);
@@ -20,11 +29,29 @@ footer {
   text-align: center;
 }
 
-#root {
-  @extend %font-style;
-  padding: 50px 0;
+section {
+  margin: spacer() 0;
 }
 
+/**
+ * Controls
+ */
+button {
+  @extend %font-style;
+  background: $white;
+  border: 2px solid $black;
+  padding: spacer(xs) spacer(sm);
+  text-transform: uppercase;
+
+  &:active,
+  &:hover,
+  &:focus {
+    background: lighten($black, 0%);
+    color: $white;
+    cursor: pointer;
+    outline: 0;
+  }
+}
 textarea {
   @extend %font-style;
   border: 3px solid $black;
@@ -34,15 +61,30 @@ textarea {
   width: 100%;
 }
 
+/**
+ * Headers and text
+ */
 h1 {
-  margin-top: 0;
+  margin: 0;
   font-size: 1.6em;
 }
 
 h2 {
   font-size: 1.2em;
+  margin-top: 0;
 }
 
-h1, h2 {
-  margin-left: spacer();
+h3 {
+  margin: spacer(xs) 0;
+}
+
+p {
+  margin: 0 0 spacer(sm);
+}
+
+/**
+ * Utility classes
+ */
+.hidden {
+  display: none;
 }
