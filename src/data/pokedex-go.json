@@ -6,7 +6,9 @@
       "japanese": "フシギダネ",
       "chinese": "妙蛙种子",
       "french": "Bulbizarre"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 2,
@@ -15,7 +17,8 @@
       "japanese": "フシギソウ",
       "chinese": "妙蛙草",
       "french": "Herbizarre"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 3,
@@ -24,7 +27,8 @@
       "japanese": "フシギバナ",
       "chinese": "妙蛙花",
       "french": "Florizarre"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 4,
@@ -33,7 +37,9 @@
       "japanese": "ヒトカゲ",
       "chinese": "小火龙",
       "french": "Salamèche"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 5,
@@ -42,7 +48,8 @@
       "japanese": "リザード",
       "chinese": "火恐龙",
       "french": "Reptincel"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 6,
@@ -51,7 +58,8 @@
       "japanese": "リザードン",
       "chinese": "喷火龙",
       "french": "Dracaufeu"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 7,
@@ -60,7 +68,9 @@
       "japanese": "ゼニガメ",
       "chinese": "杰尼龟",
       "french": "Carapuce"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 8,
@@ -69,7 +79,8 @@
       "japanese": "カメール",
       "chinese": "卡咪龟",
       "french": "Carabaffe"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 9,
@@ -78,7 +89,8 @@
       "japanese": "カメックス",
       "chinese": "水箭龟",
       "french": "Tortank"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 10,
@@ -87,7 +99,9 @@
       "japanese": "キャタピー",
       "chinese": "绿毛虫",
       "french": "Chenipan"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 11,
@@ -96,7 +110,8 @@
       "japanese": "トランセル",
       "chinese": "铁甲蛹",
       "french": "Chrysacier"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 12,
@@ -105,7 +120,8 @@
       "japanese": "バタフリー",
       "chinese": "巴大蝶",
       "french": "Papilusion"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 13,
@@ -114,7 +130,9 @@
       "japanese": "ビードル",
       "chinese": "独角虫",
       "french": "Aspicot"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 14,
@@ -123,7 +141,8 @@
       "japanese": "コクーン",
       "chinese": "铁壳蛹",
       "french": "Coconfort"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 15,
@@ -132,7 +151,8 @@
       "japanese": "スピアー",
       "chinese": "大针蜂",
       "french": "Dardargnan"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 16,
@@ -141,7 +161,9 @@
       "japanese": "ポッポ",
       "chinese": "波波",
       "french": "Roucool"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 17,
@@ -150,7 +172,8 @@
       "japanese": "ピジョン",
       "chinese": "比比鸟",
       "french": "Roucoups"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 18,
@@ -159,7 +182,8 @@
       "japanese": "ピジョット",
       "chinese": "大比鸟",
       "french": "Roucarnage"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 19,
@@ -168,7 +192,9 @@
       "japanese": "コラッタ",
       "chinese": "小拉达",
       "french": "Rattata"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 20,
@@ -177,7 +203,8 @@
       "japanese": "ラッタ",
       "chinese": "拉达",
       "french": "Rattatac"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 21,
@@ -186,7 +213,9 @@
       "japanese": "オニスズメ",
       "chinese": "烈雀",
       "french": "Piafabec"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 22,
@@ -195,7 +224,8 @@
       "japanese": "オニドリル",
       "chinese": "大嘴雀",
       "french": "Rapasdepic"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 23,
@@ -204,7 +234,9 @@
       "japanese": "アーボ",
       "chinese": "阿柏蛇",
       "french": "Abo"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 24,
@@ -213,7 +245,8 @@
       "japanese": "アーボック",
       "chinese": "阿柏怪",
       "french": "Arbok"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 25,
@@ -222,7 +255,8 @@
       "japanese": "ピカチュウ",
       "chinese": "皮卡丘",
       "french": "Pikachu"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 26,
@@ -231,7 +265,8 @@
       "japanese": "ライチュウ",
       "chinese": "雷丘",
       "french": "Raichu"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 27,
@@ -240,7 +275,9 @@
       "japanese": "サンド",
       "chinese": "穿山鼠",
       "french": "Sabelette"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 28,
@@ -249,7 +286,8 @@
       "japanese": "サンドパン",
       "chinese": "穿山王",
       "french": "Sablaireau"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 29,
@@ -259,7 +297,9 @@
       "japanese": "ニドラン♀",
       "chinese": "尼多兰",
       "french": "Nidoran♀"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 30,
@@ -268,7 +308,8 @@
       "japanese": "ニドリーナ",
       "chinese": "尼多娜",
       "french": "Nidorina"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 31,
@@ -277,7 +318,8 @@
       "japanese": "ニドクイン",
       "chinese": "尼多后",
       "french": "Nidoqueen"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 32,
@@ -287,7 +329,9 @@
       "japanese": "ニドラン♂",
       "chinese": "尼多朗",
       "french": "Nidoran♂"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 33,
@@ -296,7 +340,8 @@
       "japanese": "ニドリーノ",
       "chinese": "尼多力诺",
       "french": "Nidorino"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 34,
@@ -305,7 +350,8 @@
       "japanese": "ニドキング",
       "chinese": "尼多王",
       "french": "Nidoking"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 35,
@@ -314,7 +360,8 @@
       "japanese": "ピッピ",
       "chinese": "皮皮",
       "french": "Mélofée"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 36,
@@ -323,7 +370,8 @@
       "japanese": "ピクシー",
       "chinese": "皮可西",
       "french": "Mélodelfe"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 37,
@@ -332,7 +380,9 @@
       "japanese": "ロコン",
       "chinese": "六尾",
       "french": "Goupix"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 38,
@@ -341,7 +391,8 @@
       "japanese": "キュウコン",
       "chinese": "九尾",
       "french": "Feunard"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 39,
@@ -350,7 +401,8 @@
       "japanese": "プリン",
       "chinese": "胖丁",
       "french": "Rondoudou"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 40,
@@ -359,7 +411,8 @@
       "japanese": "プクリン",
       "chinese": "胖可丁",
       "french": "Grodoudou"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 41,
@@ -368,7 +421,9 @@
       "japanese": "ズバット",
       "chinese": "超音蝠",
       "french": "Nosferapti"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 42,
@@ -377,7 +432,8 @@
       "japanese": "ゴルバット",
       "chinese": "大嘴蝠",
       "french": "Nosferalto"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 43,
@@ -386,7 +442,9 @@
       "japanese": "ナゾノクサ",
       "chinese": "走路草",
       "french": "Mystherbe"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 44,
@@ -395,7 +453,8 @@
       "japanese": "クサイハナ",
       "chinese": "臭臭花",
       "french": "Ortide"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 45,
@@ -404,7 +463,8 @@
       "japanese": "ラフレシア",
       "chinese": "霸王花",
       "french": "Rafflesia"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 46,
@@ -413,7 +473,9 @@
       "japanese": "パラス",
       "chinese": "派拉斯",
       "french": "Paras"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 47,
@@ -422,7 +484,8 @@
       "japanese": "パラセクト",
       "chinese": "派拉斯特",
       "french": "Parasect"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 48,
@@ -431,7 +494,9 @@
       "japanese": "コンパン",
       "chinese": "毛球",
       "french": "Mimitoss"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 49,
@@ -440,7 +505,8 @@
       "japanese": "モルフォン",
       "chinese": "摩鲁蛾",
       "french": "Aéromite"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 50,
@@ -449,7 +515,9 @@
       "japanese": "ディグダ",
       "chinese": "地鼠",
       "french": "Taupiqueur"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 51,
@@ -458,7 +526,8 @@
       "japanese": "ダグトリオ",
       "chinese": "三地鼠",
       "french": "Triopikeur"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 52,
@@ -467,7 +536,9 @@
       "japanese": "ニャース",
       "chinese": "喵喵",
       "french": "Miaouss"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 53,
@@ -476,7 +547,8 @@
       "japanese": "ペルシアン",
       "chinese": "猫老大",
       "french": "Persian"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 54,
@@ -485,7 +557,9 @@
       "japanese": "コダック",
       "chinese": "可达鸭",
       "french": "Psykokwak"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 55,
@@ -494,7 +568,8 @@
       "japanese": "ゴルダック",
       "chinese": "哥达鸭",
       "french": "Akwakwak"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 56,
@@ -503,7 +578,9 @@
       "japanese": "マンキー",
       "chinese": "猴怪",
       "french": "Férosinge"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 57,
@@ -512,7 +589,8 @@
       "japanese": "オコリザル",
       "chinese": "火暴猴",
       "french": "Colossinge"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 58,
@@ -521,7 +599,9 @@
       "japanese": "ガーディ",
       "chinese": "卡蒂狗",
       "french": "Caninos"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 59,
@@ -530,7 +610,8 @@
       "japanese": "ウインディ",
       "chinese": "风速狗",
       "french": "Arcanin"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 60,
@@ -539,7 +620,9 @@
       "japanese": "ニョロモ",
       "chinese": "蚊香蝌蚪",
       "french": "Ptitard"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 61,
@@ -548,7 +631,8 @@
       "japanese": "ニョロゾ",
       "chinese": "蚊香君",
       "french": "Têtarte"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 62,
@@ -557,7 +641,8 @@
       "japanese": "ニョロボン",
       "chinese": "蚊香泳士",
       "french": "Tartard"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 63,
@@ -566,7 +651,9 @@
       "japanese": "ケーシィ",
       "chinese": "凯西",
       "french": "Abra"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 64,
@@ -575,7 +662,8 @@
       "japanese": "ユンゲラー",
       "chinese": "勇基拉",
       "french": "Kadabra"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 65,
@@ -584,7 +672,8 @@
       "japanese": "フーディン",
       "chinese": "胡地",
       "french": "Alakazam"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 66,
@@ -593,7 +682,9 @@
       "japanese": "ワンリキー",
       "chinese": "腕力",
       "french": "Machoc"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 67,
@@ -602,7 +693,8 @@
       "japanese": "ゴーリキー",
       "chinese": "豪力",
       "french": "Machopeur"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 68,
@@ -611,7 +703,8 @@
       "japanese": "カイリキー",
       "chinese": "怪力",
       "french": "Mackogneur"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 69,
@@ -620,7 +713,9 @@
       "japanese": "マダツボミ",
       "chinese": "喇叭芽",
       "french": "Chétiflor"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 70,
@@ -629,7 +724,8 @@
       "japanese": "ウツドン",
       "chinese": "口呆花",
       "french": "Boustiflor"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 71,
@@ -638,7 +734,8 @@
       "japanese": "ウツボット",
       "chinese": "大食花",
       "french": "Empiflor"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 72,
@@ -647,7 +744,9 @@
       "japanese": "メノクラゲ",
       "chinese": "玛瑙水母",
       "french": "Tentacool"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 73,
@@ -656,7 +755,8 @@
       "japanese": "ドククラゲ",
       "chinese": "毒刺水母",
       "french": "Tentacruel"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 74,
@@ -665,7 +765,9 @@
       "japanese": "イシツブテ",
       "chinese": "小拳石",
       "french": "Racaillou"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 75,
@@ -674,7 +776,8 @@
       "japanese": "ゴローン",
       "chinese": "隆隆石",
       "french": "Gravalanch"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 76,
@@ -683,7 +786,8 @@
       "japanese": "ゴローニャ",
       "chinese": "隆隆岩",
       "french": "Grolem"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 77,
@@ -692,7 +796,9 @@
       "japanese": "ポニータ",
       "chinese": "小火马",
       "french": "Ponyta"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 78,
@@ -701,7 +807,8 @@
       "japanese": "ギャロップ",
       "chinese": "烈焰马",
       "french": "Galopa"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 79,
@@ -710,7 +817,9 @@
       "japanese": "ヤドン",
       "chinese": "呆呆兽",
       "french": "Ramoloss"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 80,
@@ -719,7 +828,8 @@
       "japanese": "ヤドラン",
       "chinese": "呆壳兽",
       "french": "Flagadoss"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 81,
@@ -728,7 +838,9 @@
       "japanese": "コイル",
       "chinese": "小磁怪",
       "french": "Magnéti"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 82,
@@ -737,7 +849,8 @@
       "japanese": "レアコイル",
       "chinese": "三合一磁怪",
       "french": "Magnéton"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 83,
@@ -747,7 +860,9 @@
       "japanese": "カモネギ",
       "chinese": "大葱鸭",
       "french": "Canarticho"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 84,
@@ -756,7 +871,9 @@
       "japanese": "ドードー",
       "chinese": "嘟嘟",
       "french": "Doduo"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 85,
@@ -765,7 +882,8 @@
       "japanese": "ドードリオ",
       "chinese": "嘟嘟利",
       "french": "Dodrio"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 86,
@@ -774,7 +892,9 @@
       "japanese": "パウワウ",
       "chinese": "小海狮",
       "french": "Otaria"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 87,
@@ -783,7 +903,8 @@
       "japanese": "ジュゴン",
       "chinese": "白海狮",
       "french": "Lamantine"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 88,
@@ -792,7 +913,9 @@
       "japanese": "ベトベター",
       "chinese": "臭泥",
       "french": "Tadmorv"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 89,
@@ -801,7 +924,8 @@
       "japanese": "ベトベトン",
       "chinese": "臭臭泥",
       "french": "Grotadmorv"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 90,
@@ -810,7 +934,9 @@
       "japanese": "シェルダー",
       "chinese": "大舌贝",
       "french": "Kokiyas"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 91,
@@ -819,7 +945,8 @@
       "japanese": "パルシェン",
       "chinese": "刺甲贝",
       "french": "Crustabri"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 92,
@@ -828,7 +955,9 @@
       "japanese": "ゴース",
       "chinese": "鬼斯",
       "french": "Fantominus"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 93,
@@ -837,7 +966,8 @@
       "japanese": "ゴースト",
       "chinese": "鬼斯通",
       "french": "Spectrum"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 94,
@@ -846,7 +976,8 @@
       "japanese": "ゲンガー",
       "chinese": "耿鬼",
       "french": "Ectoplasma"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 95,
@@ -855,7 +986,9 @@
       "japanese": "イワーク",
       "chinese": "大岩蛇",
       "french": "Onix"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 96,
@@ -864,7 +997,9 @@
       "japanese": "スリープ",
       "chinese": "催眠貘",
       "french": "Soporifik"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 97,
@@ -873,7 +1008,8 @@
       "japanese": "スリーパー",
       "chinese": "引梦貘人",
       "french": "Hypnomade"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 98,
@@ -882,7 +1018,9 @@
       "japanese": "クラブ",
       "chinese": "大钳蟹",
       "french": "Krabby"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 99,
@@ -891,7 +1029,8 @@
       "japanese": "キングラー",
       "chinese": "巨钳蟹",
       "french": "Krabboss"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 100,
@@ -900,7 +1039,9 @@
       "japanese": "ビリリダマ",
       "chinese": "霹雳电球",
       "french": "Voltorbe"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 101,
@@ -909,7 +1050,8 @@
       "japanese": "マルマイン",
       "chinese": "顽皮雷弹",
       "french": "Électrode"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 102,
@@ -918,7 +1060,9 @@
       "japanese": "タマタマ",
       "chinese": "蛋蛋",
       "french": "Noeunoeuf"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 103,
@@ -927,7 +1071,8 @@
       "japanese": "ナッシー",
       "chinese": "椰蛋树",
       "french": "Noadkoko"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 104,
@@ -936,7 +1081,9 @@
       "japanese": "カラカラ",
       "chinese": "卡拉卡拉",
       "french": "Osselait"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 105,
@@ -945,7 +1092,8 @@
       "japanese": "ガラガラ",
       "chinese": "嘎啦嘎啦",
       "french": "Ossatueur"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 106,
@@ -954,7 +1102,8 @@
       "japanese": "サワムラー",
       "chinese": "飞腿郎",
       "french": "Kicklee"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 107,
@@ -963,7 +1112,8 @@
       "japanese": "エビワラー",
       "chinese": "快拳郎",
       "french": "Tygnon"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 108,
@@ -972,7 +1122,9 @@
       "japanese": "ベロリンガ",
       "chinese": "大舌头",
       "french": "Excelangue"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 109,
@@ -981,7 +1133,9 @@
       "japanese": "ドガース",
       "chinese": "瓦斯弹",
       "french": "Smogo"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 110,
@@ -990,7 +1144,8 @@
       "japanese": "マタドガス",
       "chinese": "双弹瓦斯",
       "french": "Smogogo"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 111,
@@ -999,7 +1154,9 @@
       "japanese": "サイホーン",
       "chinese": "独角犀牛",
       "french": "Rhinocorne"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 112,
@@ -1008,7 +1165,8 @@
       "japanese": "サイドン",
       "chinese": "钻角犀兽",
       "french": "Rhinoféros"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 113,
@@ -1017,7 +1175,8 @@
       "japanese": "ラッキー",
       "chinese": "吉利蛋",
       "french": "Leveinard"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 114,
@@ -1026,7 +1185,9 @@
       "japanese": "モンジャラ",
       "chinese": "蔓藤怪",
       "french": "Saquedeneu"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 115,
@@ -1035,7 +1196,9 @@
       "japanese": "ガルーラ",
       "chinese": "袋兽",
       "french": "Kangourex"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 116,
@@ -1044,7 +1207,9 @@
       "japanese": "タッツー",
       "chinese": "墨海马",
       "french": "Hypotrempe"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 117,
@@ -1053,7 +1218,8 @@
       "japanese": "シードラ",
       "chinese": "海刺龙",
       "french": "Hypocéan"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 118,
@@ -1062,7 +1228,9 @@
       "japanese": "トサキント",
       "chinese": "角金鱼",
       "french": "Poissirène"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 119,
@@ -1071,7 +1239,8 @@
       "japanese": "アズマオウ",
       "chinese": "金鱼王",
       "french": "Poissoroy"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 120,
@@ -1080,7 +1249,9 @@
       "japanese": "ヒトデマン",
       "chinese": "海星星",
       "french": "Stari"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 121,
@@ -1089,7 +1260,8 @@
       "japanese": "スターミー",
       "chinese": "宝石海星",
       "french": "Staross"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 122,
@@ -1099,7 +1271,8 @@
       "japanese": "バリヤード",
       "chinese": "魔墙人偶",
       "french": "M. Mime"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 123,
@@ -1108,7 +1281,9 @@
       "japanese": "ストライク",
       "chinese": "飞天螳螂",
       "french": "Insécateur"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 124,
@@ -1117,7 +1292,8 @@
       "japanese": "ルージュラ",
       "chinese": "迷唇姐",
       "french": "Lippoutou"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 125,
@@ -1126,7 +1302,8 @@
       "japanese": "エレブー",
       "chinese": "电击兽",
       "french": "Élektek"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 126,
@@ -1135,7 +1312,8 @@
       "japanese": "ブーバー",
       "chinese": "鸭嘴火兽",
       "french": "Magmar"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 127,
@@ -1144,7 +1322,9 @@
       "japanese": "カイロス",
       "chinese": "凯罗斯",
       "french": "Scarabrute"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 128,
@@ -1153,7 +1333,9 @@
       "japanese": "ケンタロス",
       "chinese": "肯泰罗",
       "french": "Tauros"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 129,
@@ -1162,7 +1344,9 @@
       "japanese": "コイキング",
       "chinese": "鲤鱼王",
       "french": "Magicarpe"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 130,
@@ -1171,7 +1355,8 @@
       "japanese": "ギャラドス",
       "chinese": "暴鲤龙",
       "french": "Léviator"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 131,
@@ -1180,7 +1365,9 @@
       "japanese": "ラプラス",
       "chinese": "拉普拉斯",
       "french": "Lokhlass"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 132,
@@ -1189,7 +1376,9 @@
       "japanese": "メタモン",
       "chinese": "百变怪",
       "french": "Métamorph"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 133,
@@ -1198,7 +1387,9 @@
       "japanese": "イーブイ",
       "chinese": "伊布",
       "french": "Évoli"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 134,
@@ -1207,7 +1398,8 @@
       "japanese": "シャワーズ",
       "chinese": "水伊布",
       "french": "Aquali"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 135,
@@ -1216,7 +1408,8 @@
       "japanese": "サンダース",
       "chinese": "雷伊布",
       "french": "Voltali"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 136,
@@ -1225,7 +1418,8 @@
       "japanese": "ブースター",
       "chinese": "火伊布",
       "french": "Pyroli"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 137,
@@ -1234,7 +1428,9 @@
       "japanese": "ポリゴン",
       "chinese": "多边兽",
       "french": "Porygon"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 138,
@@ -1243,7 +1439,9 @@
       "japanese": "オムナイト",
       "chinese": "菊石兽",
       "french": "Amonita"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 139,
@@ -1252,7 +1450,8 @@
       "japanese": "オムスター",
       "chinese": "多刺菊石兽",
       "french": "Amonistar"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 140,
@@ -1261,7 +1460,9 @@
       "japanese": "カブト",
       "chinese": "化石盔",
       "french": "Kabuto"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 141,
@@ -1270,7 +1471,8 @@
       "japanese": "カブトプス",
       "chinese": "镰刀盔",
       "french": "Kabutops"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 142,
@@ -1279,7 +1481,9 @@
       "japanese": "プテラ",
       "chinese": "化石翼龙",
       "french": "Ptéra"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 143,
@@ -1288,7 +1492,8 @@
       "japanese": "カビゴン",
       "chinese": "卡比兽",
       "french": "Ronflex"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 144,
@@ -1297,7 +1502,9 @@
       "japanese": "フリーザー",
       "chinese": "急冻鸟",
       "french": "Artikodin"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 145,
@@ -1306,7 +1513,9 @@
       "japanese": "サンダー",
       "chinese": "闪电鸟",
       "french": "Électhor"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 146,
@@ -1315,7 +1524,9 @@
       "japanese": "ファイヤー",
       "chinese": "火焰鸟",
       "french": "Sulfura"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 147,
@@ -1324,7 +1535,9 @@
       "japanese": "ミニリュウ",
       "chinese": "迷你龙",
       "french": "Minidraco"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 148,
@@ -1333,7 +1546,8 @@
       "japanese": "ハクリュー",
       "chinese": "哈克龙",
       "french": "Draco"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 149,
@@ -1342,7 +1556,8 @@
       "japanese": "カイリュー",
       "chinese": "快龙",
       "french": "Dracolosse"
-    }
+    },
+    "region": "Kanto"
   },
   {
     "id": 150,
@@ -1351,7 +1566,9 @@
       "japanese": "ミュウツー",
       "chinese": "超梦",
       "french": "Mewtwo"
-    }
+    },
+    "region": "Kanto",
+    "basic": true
   },
   {
     "id": 151,
@@ -1360,7 +1577,9 @@
       "japanese": "ミュウ",
       "chinese": "梦幻",
       "french": "Mew"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 152,
@@ -1369,7 +1588,9 @@
       "japanese": "チコリータ",
       "chinese": "菊草叶",
       "french": "Germignon"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 153,
@@ -1378,7 +1599,8 @@
       "japanese": "ベイリーフ",
       "chinese": "月桂叶",
       "french": "Macronium"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 154,
@@ -1387,7 +1609,8 @@
       "japanese": "メガニウム",
       "chinese": "大竺葵",
       "french": "Méganium"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 155,
@@ -1396,7 +1619,9 @@
       "japanese": "ヒノアラシ",
       "chinese": "火球鼠",
       "french": "Héricendre"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 156,
@@ -1405,7 +1630,8 @@
       "japanese": "マグマラシ",
       "chinese": "火岩鼠",
       "french": "Feurisson"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 157,
@@ -1414,7 +1640,8 @@
       "japanese": "バクフーン",
       "chinese": "火暴兽",
       "french": "Typhlosion"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 158,
@@ -1423,7 +1650,9 @@
       "japanese": "ワニノコ",
       "chinese": "小锯鳄",
       "french": "Kaiminus"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 159,
@@ -1432,7 +1661,8 @@
       "japanese": "アリゲイツ",
       "chinese": "蓝鳄",
       "french": "Crocrodil"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 160,
@@ -1441,7 +1671,8 @@
       "japanese": "オーダイル",
       "chinese": "大力鳄",
       "french": "Aligatueur"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 161,
@@ -1450,7 +1681,9 @@
       "japanese": "オタチ",
       "chinese": "尾立",
       "french": "Fouinette"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 162,
@@ -1459,7 +1692,8 @@
       "japanese": "オオタチ",
       "chinese": "大尾立",
       "french": "Fouinar"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 163,
@@ -1468,7 +1702,9 @@
       "japanese": "ホーホー",
       "chinese": "咕咕",
       "french": "Hoothoot"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 164,
@@ -1477,7 +1713,8 @@
       "japanese": "ヨルノズク",
       "chinese": "猫头夜鹰",
       "french": "Noarfang"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 165,
@@ -1486,7 +1723,9 @@
       "japanese": "レディバ",
       "chinese": "芭瓢虫",
       "french": "Coxy"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 166,
@@ -1495,7 +1734,8 @@
       "japanese": "レディアン",
       "chinese": "安瓢虫",
       "french": "Coxyclaque"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 167,
@@ -1504,7 +1744,9 @@
       "japanese": "イトマル",
       "chinese": "圆丝蛛",
       "french": "Mimigal"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 168,
@@ -1513,7 +1755,8 @@
       "japanese": "アリアドス",
       "chinese": "阿利多斯",
       "french": "Migalos"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 169,
@@ -1522,7 +1765,8 @@
       "japanese": "クロバット",
       "chinese": "叉字蝠",
       "french": "Nostenfer"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 170,
@@ -1531,7 +1775,9 @@
       "japanese": "チョンチー",
       "chinese": "灯笼鱼",
       "french": "Loupio"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 171,
@@ -1540,7 +1786,8 @@
       "japanese": "ランターン",
       "chinese": "电灯怪",
       "french": "Lanturn"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 172,
@@ -1549,7 +1796,9 @@
       "japanese": "ピチュー",
       "chinese": "皮丘",
       "french": "Pichu"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 173,
@@ -1558,7 +1807,9 @@
       "japanese": "ピィ",
       "chinese": "皮宝宝",
       "french": "Mélo"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 174,
@@ -1567,7 +1818,9 @@
       "japanese": "ププリン",
       "chinese": "宝宝丁",
       "french": "Toudoudou"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 175,
@@ -1576,7 +1829,9 @@
       "japanese": "トゲピー",
       "chinese": "波克比",
       "french": "Togepi"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 176,
@@ -1585,7 +1840,8 @@
       "japanese": "トゲチック",
       "chinese": "波克基古",
       "french": "Togetic"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 177,
@@ -1594,7 +1850,9 @@
       "japanese": "ネイティ",
       "chinese": "天然雀",
       "french": "Natu"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 178,
@@ -1603,7 +1861,8 @@
       "japanese": "ネイティオ",
       "chinese": "天然鸟",
       "french": "Xatu"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 179,
@@ -1612,7 +1871,9 @@
       "japanese": "メリープ",
       "chinese": "咩利羊",
       "french": "Wattouat"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 180,
@@ -1621,7 +1882,8 @@
       "japanese": "モココ",
       "chinese": "茸茸羊",
       "french": "Lainergie"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 181,
@@ -1630,7 +1892,8 @@
       "japanese": "デンリュウ",
       "chinese": "电龙",
       "french": "Pharamp"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 182,
@@ -1639,7 +1902,8 @@
       "japanese": "キレイハナ",
       "chinese": "美丽花",
       "french": "Joliflor"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 183,
@@ -1648,7 +1912,8 @@
       "japanese": "マリル",
       "chinese": "玛力露",
       "french": "Marill"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 184,
@@ -1657,7 +1922,8 @@
       "japanese": "マリルリ",
       "chinese": "玛力露丽",
       "french": "Azumarill"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 185,
@@ -1666,7 +1932,8 @@
       "japanese": "ウソッキー",
       "chinese": "树才怪‎",
       "french": "Simularbre"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 186,
@@ -1675,7 +1942,8 @@
       "japanese": "ニョロトノ",
       "chinese": "蚊香蛙皇",
       "french": "Tarpaud"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 187,
@@ -1684,7 +1952,9 @@
       "japanese": "ハネッコ",
       "chinese": "毽子草",
       "french": "Granivol"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 188,
@@ -1693,7 +1963,8 @@
       "japanese": "ポポッコ",
       "chinese": "毽子花",
       "french": "Floravol"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 189,
@@ -1702,7 +1973,8 @@
       "japanese": "ワタッコ",
       "chinese": "毽子棉",
       "french": "Cotovol"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 190,
@@ -1711,7 +1983,9 @@
       "japanese": "エイパム",
       "chinese": "长尾怪手",
       "french": "Capumain"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 191,
@@ -1720,7 +1994,9 @@
       "japanese": "ヒマナッツ",
       "chinese": "向日种子",
       "french": "Tournegrin"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 192,
@@ -1729,7 +2005,8 @@
       "japanese": "キマワリ",
       "chinese": "向日花怪",
       "french": "Héliatronc"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 193,
@@ -1738,7 +2015,9 @@
       "japanese": "ヤンヤンマ",
       "chinese": "蜻蜻蜓",
       "french": "Yanma"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 194,
@@ -1747,7 +2026,9 @@
       "japanese": "ウパー",
       "chinese": "乌波",
       "french": "Axoloto"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 195,
@@ -1756,7 +2037,8 @@
       "japanese": "ヌオー",
       "chinese": "沼王",
       "french": "Maraiste"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 196,
@@ -1765,7 +2047,8 @@
       "japanese": "エーフィ",
       "chinese": "太阳伊布",
       "french": "Mentali"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 197,
@@ -1774,7 +2057,8 @@
       "japanese": "ブラッキー",
       "chinese": "月亮伊布",
       "french": "Noctali"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 198,
@@ -1783,7 +2067,9 @@
       "japanese": "ヤミカラス",
       "chinese": "黑暗鸦",
       "french": "Cornèbre"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 199,
@@ -1792,7 +2078,8 @@
       "japanese": "ヤドキング",
       "chinese": "呆呆王",
       "french": "Roigada"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 200,
@@ -1801,7 +2088,9 @@
       "japanese": "ムウマ",
       "chinese": "梦妖",
       "french": "Feuforêve"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 201,
@@ -1810,7 +2099,9 @@
       "japanese": "アンノーン",
       "chinese": "未知图腾",
       "french": "Zarbi"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 202,
@@ -1819,7 +2110,8 @@
       "japanese": "ソーナンス",
       "chinese": "果然翁",
       "french": "Qulbutoké"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 203,
@@ -1828,7 +2120,9 @@
       "japanese": "キリンリキ",
       "chinese": "麒麟奇",
       "french": "Girafarig"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 204,
@@ -1837,7 +2131,9 @@
       "japanese": "クヌギダマ",
       "chinese": "榛果球",
       "french": "Pomdepik"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 205,
@@ -1846,7 +2142,8 @@
       "japanese": "フォレトス",
       "chinese": "佛烈托斯",
       "french": "Foretress"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 206,
@@ -1855,7 +2152,9 @@
       "japanese": "ノコッチ",
       "chinese": "土龙弟弟",
       "french": "Insolourdo"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 207,
@@ -1864,7 +2163,9 @@
       "japanese": "グライガー",
       "chinese": "天蝎",
       "french": "Scorplane"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 208,
@@ -1873,7 +2174,8 @@
       "japanese": "ハガネール",
       "chinese": "大钢蛇",
       "french": "Steelix"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 209,
@@ -1882,7 +2184,9 @@
       "japanese": "ブルー",
       "chinese": "布鲁",
       "french": "Snubbull"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 210,
@@ -1891,7 +2195,8 @@
       "japanese": "グランブル",
       "chinese": "布鲁皇",
       "french": "Granbull"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 211,
@@ -1900,7 +2205,9 @@
       "japanese": "ハリーセン",
       "chinese": "千针鱼",
       "french": "Qwilfish"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 212,
@@ -1909,7 +2216,8 @@
       "japanese": "ハッサム",
       "chinese": "巨钳螳螂",
       "french": "Cizayox"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 213,
@@ -1918,7 +2226,9 @@
       "japanese": "ツボツボ",
       "chinese": "壶壶",
       "french": "Caratroc"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 214,
@@ -1927,7 +2237,9 @@
       "japanese": "ヘラクロス",
       "chinese": "赫拉克罗斯",
       "french": "Scarhino"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 215,
@@ -1936,7 +2248,9 @@
       "japanese": "ニューラ",
       "chinese": "狃拉",
       "french": "Farfuret"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 216,
@@ -1945,7 +2259,9 @@
       "japanese": "ヒメグマ",
       "chinese": "熊宝宝",
       "french": "Teddiursa"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 217,
@@ -1954,7 +2270,8 @@
       "japanese": "リングマ",
       "chinese": "圈圈熊",
       "french": "Ursaring"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 218,
@@ -1963,7 +2280,9 @@
       "japanese": "マグマッグ",
       "chinese": "熔岩虫",
       "french": "Limagma"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 219,
@@ -1972,7 +2291,8 @@
       "japanese": "マグカルゴ",
       "chinese": "熔岩蜗牛",
       "french": "Volcaropod"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 220,
@@ -1981,7 +2301,9 @@
       "japanese": "ウリムー",
       "chinese": "小山猪",
       "french": "Marcacrin"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 221,
@@ -1990,7 +2312,8 @@
       "japanese": "イノムー",
       "chinese": "长毛猪",
       "french": "Cochignon"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 222,
@@ -1999,7 +2322,9 @@
       "japanese": "サニーゴ",
       "chinese": "太阳珊瑚",
       "french": "Corayon"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 223,
@@ -2008,7 +2333,9 @@
       "japanese": "テッポウオ",
       "chinese": "铁炮鱼",
       "french": "Rémoraid"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 224,
@@ -2017,7 +2344,8 @@
       "japanese": "オクタン",
       "chinese": "章鱼桶",
       "french": "Octillery"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 225,
@@ -2026,7 +2354,9 @@
       "japanese": "デリバード",
       "chinese": "信使鸟",
       "french": "Cadoizo"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 226,
@@ -2035,7 +2365,8 @@
       "japanese": "マンタイン",
       "chinese": "巨翅飞鱼",
       "french": "Démanta"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 227,
@@ -2044,7 +2375,9 @@
       "japanese": "エアームド",
       "chinese": "盔甲鸟",
       "french": "Airmure"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 228,
@@ -2053,7 +2386,9 @@
       "japanese": "デルビル",
       "chinese": "戴鲁比",
       "french": "Malosse"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 229,
@@ -2062,7 +2397,8 @@
       "japanese": "ヘルガー",
       "chinese": "黑鲁加",
       "french": "Démolosse"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 230,
@@ -2071,7 +2407,8 @@
       "japanese": "キングドラ",
       "chinese": "刺龙王",
       "french": "Hyporoi"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 231,
@@ -2080,7 +2417,9 @@
       "japanese": "ゴマゾウ",
       "chinese": "小小象",
       "french": "Phanpy"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 232,
@@ -2089,7 +2428,8 @@
       "japanese": "ドンファン",
       "chinese": "顿甲",
       "french": "Donphan"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 233,
@@ -2098,7 +2438,9 @@
       "japanese": "ポリゴン２",
       "chinese": "多边兽Ⅱ",
       "french": "Porygon2"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 234,
@@ -2107,7 +2449,9 @@
       "japanese": "オドシシ",
       "chinese": "惊角鹿",
       "french": "Cerfrousse"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 235,
@@ -2116,7 +2460,9 @@
       "japanese": "ドーブル",
       "chinese": "图图犬",
       "french": "Queulorior"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 236,
@@ -2125,7 +2471,9 @@
       "japanese": "バルキー",
       "chinese": "无畏小子",
       "french": "Debugant"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 237,
@@ -2134,7 +2482,8 @@
       "japanese": "カポエラー",
       "chinese": "战舞郎",
       "french": "Kapoera"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 238,
@@ -2143,7 +2492,9 @@
       "japanese": "ムチュール",
       "chinese": "迷唇娃",
       "french": "Lippouti"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 239,
@@ -2152,7 +2503,9 @@
       "japanese": "エレキッド",
       "chinese": "电击怪",
       "french": "Élekid"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 240,
@@ -2161,7 +2514,9 @@
       "japanese": "ブビィ",
       "chinese": "鸭嘴宝宝",
       "french": "Magby"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 241,
@@ -2170,7 +2525,9 @@
       "japanese": "ミルタンク",
       "chinese": "大奶罐",
       "french": "Écrémeuh"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 242,
@@ -2179,7 +2536,8 @@
       "japanese": "ハピナス",
       "chinese": "幸福蛋",
       "french": "Leuphorie"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 243,
@@ -2188,7 +2546,9 @@
       "japanese": "ライコウ",
       "chinese": "雷公",
       "french": "Raikou"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 244,
@@ -2197,7 +2557,9 @@
       "japanese": "エンテイ",
       "chinese": "炎帝",
       "french": "Entei"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 245,
@@ -2206,7 +2568,9 @@
       "japanese": "スイクン",
       "chinese": "水君",
       "french": "Suicune"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 246,
@@ -2215,7 +2579,9 @@
       "japanese": "ヨーギラス",
       "chinese": "幼基拉斯",
       "french": "Embrylex"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 247,
@@ -2224,7 +2590,8 @@
       "japanese": "サナギラス",
       "chinese": "沙基拉斯",
       "french": "Ymphect"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 248,
@@ -2233,7 +2600,8 @@
       "japanese": "バンギラス",
       "chinese": "班基拉斯",
       "french": "Tyranocif"
-    }
+    },
+    "region": "Johto"
   },
   {
     "id": 249,
@@ -2242,7 +2610,9 @@
       "japanese": "ルギア",
       "chinese": "洛奇亚",
       "french": "Lugia"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 250,
@@ -2251,7 +2621,9 @@
       "japanese": "ホウオウ",
       "chinese": "凤王",
       "french": "Ho-Oh"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 251,
@@ -2260,7 +2632,9 @@
       "japanese": "セレビィ",
       "chinese": "时拉比",
       "french": "Celebi"
-    }
+    },
+    "region": "Johto",
+    "basic": true
   },
   {
     "id": 252,
@@ -2269,7 +2643,9 @@
       "japanese": "キモリ",
       "chinese": "木守宫",
       "french": "Arcko"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 253,
@@ -2278,7 +2654,8 @@
       "japanese": "ジュプトル",
       "chinese": "森林蜥蜴",
       "french": "Massko"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 254,
@@ -2287,7 +2664,8 @@
       "japanese": "ジュカイン",
       "chinese": "蜥蜴王",
       "french": "Jungko"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 255,
@@ -2296,7 +2674,9 @@
       "japanese": "アチャモ",
       "chinese": "火稚鸡",
       "french": "Poussifeu"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 256,
@@ -2305,7 +2685,8 @@
       "japanese": "ワカシャモ",
       "chinese": "力壮鸡",
       "french": "Galifeu"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 257,
@@ -2314,7 +2695,8 @@
       "japanese": "バシャーモ",
       "chinese": "火焰鸡",
       "french": "Braségali"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 258,
@@ -2323,7 +2705,9 @@
       "japanese": "ミズゴロウ",
       "chinese": "水跃鱼",
       "french": "Gobou"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 259,
@@ -2332,7 +2716,8 @@
       "japanese": "ヌマクロー",
       "chinese": "沼跃鱼",
       "french": "Flobio"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 260,
@@ -2341,7 +2726,8 @@
       "japanese": "ラグラージ",
       "chinese": "巨沼怪",
       "french": "Laggron"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 261,
@@ -2350,7 +2736,9 @@
       "japanese": "ポチエナ",
       "chinese": "土狼犬",
       "french": "Medhyèna"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 262,
@@ -2359,7 +2747,8 @@
       "japanese": "グラエナ",
       "chinese": "大狼犬",
       "french": "Grahyèna"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 263,
@@ -2368,7 +2757,9 @@
       "japanese": "ジグザグマ",
       "chinese": "蛇纹熊",
       "french": "Zigzaton"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 264,
@@ -2377,7 +2768,8 @@
       "japanese": "マッスグマ",
       "chinese": "直冲熊",
       "french": "Linéon"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 265,
@@ -2386,7 +2778,9 @@
       "japanese": "ケムッソ",
       "chinese": "刺尾虫",
       "french": "Chenipotte"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 266,
@@ -2395,7 +2789,8 @@
       "japanese": "カラサリス",
       "chinese": "甲壳茧",
       "french": "Armulys"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 267,
@@ -2404,7 +2799,8 @@
       "japanese": "アゲハント",
       "chinese": "狩猎凤蝶",
       "french": "Charmillon"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 268,
@@ -2413,7 +2809,8 @@
       "japanese": "マユルド",
       "chinese": "盾甲茧",
       "french": "Blindalys"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 269,
@@ -2422,7 +2819,8 @@
       "japanese": "ドクケイル",
       "chinese": "毒粉蛾",
       "french": "Papinox"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 270,
@@ -2431,7 +2829,9 @@
       "japanese": "ハスボー",
       "chinese": "莲叶童子",
       "french": "Nénupiot"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 271,
@@ -2440,7 +2840,8 @@
       "japanese": "ハスブレロ",
       "chinese": "莲帽小童",
       "french": "Lombre"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 272,
@@ -2449,7 +2850,8 @@
       "japanese": "ルンパッパ",
       "chinese": "乐天河童",
       "french": "Ludicolo"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 273,
@@ -2458,7 +2860,9 @@
       "japanese": "タネボー",
       "chinese": "橡实果",
       "french": "Grainipiot"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 274,
@@ -2467,7 +2871,8 @@
       "japanese": "コノハナ",
       "chinese": "长鼻叶",
       "french": "Pifeuil"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 275,
@@ -2476,7 +2881,8 @@
       "japanese": "ダーテング",
       "chinese": "狡猾天狗",
       "french": "Tengalice"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 276,
@@ -2485,7 +2891,9 @@
       "japanese": "スバメ",
       "chinese": "傲骨燕",
       "french": "Nirondelle"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 277,
@@ -2494,7 +2902,8 @@
       "japanese": "オオスバメ",
       "chinese": "大王燕",
       "french": "Hélédelle"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 278,
@@ -2503,7 +2912,9 @@
       "japanese": "キャモメ",
       "chinese": "长翅鸥",
       "french": "Goélise"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 279,
@@ -2512,7 +2923,8 @@
       "japanese": "ペリッパー",
       "chinese": "大嘴鸥",
       "french": "Bekipan"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 280,
@@ -2521,7 +2933,9 @@
       "japanese": "ラルトス",
       "chinese": "拉鲁拉丝",
       "french": "Tarsal"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 281,
@@ -2530,7 +2944,8 @@
       "japanese": "キルリア",
       "chinese": "奇鲁莉安",
       "french": "Kirlia"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 282,
@@ -2539,7 +2954,8 @@
       "japanese": "サーナイト",
       "chinese": "沙奈朵",
       "french": "Gardevoir"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 283,
@@ -2548,7 +2964,9 @@
       "japanese": "アメタマ",
       "chinese": "溜溜糖球",
       "french": "Arakdo"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 284,
@@ -2557,7 +2975,8 @@
       "japanese": "アメモース",
       "chinese": "雨翅蛾",
       "french": "Maskadra"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 285,
@@ -2566,7 +2985,8 @@
       "japanese": "キノココ",
       "chinese": "蘑蘑菇",
       "french": "Balignon"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 286,
@@ -2575,7 +2995,8 @@
       "japanese": "キノガッサ",
       "chinese": "斗笠菇",
       "french": "Chapignon"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 287,
@@ -2584,7 +3005,9 @@
       "japanese": "ナマケロ",
       "chinese": "懒人獭",
       "french": "Parecool"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 288,
@@ -2593,7 +3016,8 @@
       "japanese": "ヤルキモノ",
       "chinese": "过动猿",
       "french": "Vigoroth"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 289,
@@ -2602,7 +3026,8 @@
       "japanese": "ケッキング",
       "chinese": "请假王",
       "french": "Monaflèmit"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 290,
@@ -2611,7 +3036,9 @@
       "japanese": "ツチニン",
       "chinese": "土居忍士",
       "french": "Ningale"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 291,
@@ -2620,7 +3047,8 @@
       "japanese": "テッカニン",
       "chinese": "铁面忍者",
       "french": "Ninjask"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 292,
@@ -2629,7 +3057,8 @@
       "japanese": "ヌケニン",
       "chinese": "脱壳忍者",
       "french": "Munja"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 293,
@@ -2638,7 +3067,9 @@
       "japanese": "ゴニョニョ",
       "chinese": "咕妞妞",
       "french": "Chuchmur"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 294,
@@ -2647,7 +3078,8 @@
       "japanese": "ドゴーム",
       "chinese": "吼爆弹",
       "french": "Ramboum"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 295,
@@ -2656,7 +3088,8 @@
       "japanese": "バクオング",
       "chinese": "爆音怪",
       "french": "Brouhabam"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 296,
@@ -2665,7 +3098,9 @@
       "japanese": "マクノシタ",
       "chinese": "幕下力士",
       "french": "Makuhita"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 297,
@@ -2674,7 +3109,8 @@
       "japanese": "ハリテヤマ",
       "chinese": "铁掌力士",
       "french": "Hariyama"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 298,
@@ -2683,7 +3119,9 @@
       "japanese": "ルリリ",
       "chinese": "露力丽",
       "french": "Azurill"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 299,
@@ -2692,7 +3130,9 @@
       "japanese": "ノズパス",
       "chinese": "朝北鼻",
       "french": "Tarinor"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 300,
@@ -2701,7 +3141,9 @@
       "japanese": "エネコ",
       "chinese": "向尾喵",
       "french": "Skitty"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 301,
@@ -2710,7 +3152,8 @@
       "japanese": "エネコロロ",
       "chinese": "优雅猫",
       "french": "Delcatty"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 302,
@@ -2719,7 +3162,9 @@
       "japanese": "ヤミラミ",
       "chinese": "勾魂眼",
       "french": "Ténéfix"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 303,
@@ -2728,7 +3173,8 @@
       "japanese": "クチート",
       "chinese": "大嘴娃",
       "french": "Mysdibule"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 304,
@@ -2737,7 +3183,9 @@
       "japanese": "ココドラ",
       "chinese": "可可多拉",
       "french": "Galekid"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 305,
@@ -2746,7 +3194,8 @@
       "japanese": "コドラ",
       "chinese": "可多拉",
       "french": "Galegon"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 306,
@@ -2755,7 +3204,8 @@
       "japanese": "ボスゴドラ",
       "chinese": "波士可多拉",
       "french": "Galeking"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 307,
@@ -2764,7 +3214,9 @@
       "japanese": "アサナン",
       "chinese": "玛沙那",
       "french": "Méditikka"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 308,
@@ -2773,7 +3225,8 @@
       "japanese": "チャーレム",
       "chinese": "恰雷姆",
       "french": "Charmina"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 309,
@@ -2782,7 +3235,9 @@
       "japanese": "ラクライ",
       "chinese": "落雷兽",
       "french": "Dynavolt"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 310,
@@ -2791,7 +3246,8 @@
       "japanese": "ライボルト",
       "chinese": "雷电兽",
       "french": "Élecsprint"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 311,
@@ -2800,7 +3256,9 @@
       "japanese": "プラスル",
       "chinese": "正电拍拍",
       "french": "Posipi"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 312,
@@ -2809,7 +3267,9 @@
       "japanese": "マイナン",
       "chinese": "负电拍拍",
       "french": "Négapi"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 313,
@@ -2818,7 +3278,9 @@
       "japanese": "バルビート",
       "chinese": "电萤虫",
       "french": "Muciole"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 314,
@@ -2827,7 +3289,9 @@
       "japanese": "イルミーゼ",
       "chinese": "甜甜萤",
       "french": "Lumivole"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 315,
@@ -2836,7 +3300,8 @@
       "japanese": "ロゼリア",
       "chinese": "毒蔷薇",
       "french": "Rosélia"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 316,
@@ -2845,7 +3310,9 @@
       "japanese": "ゴクリン",
       "chinese": "溶食兽",
       "french": "Gloupti"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 317,
@@ -2854,7 +3321,8 @@
       "japanese": "マルノーム",
       "chinese": "吞食兽",
       "french": "Avaltout"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 318,
@@ -2863,7 +3331,9 @@
       "japanese": "キバニア",
       "chinese": "利牙鱼",
       "french": "Carvanha"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 319,
@@ -2872,7 +3342,8 @@
       "japanese": "サメハダー",
       "chinese": "巨牙鲨",
       "french": "Sharpedo"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 320,
@@ -2881,7 +3352,9 @@
       "japanese": "ホエルコ",
       "chinese": "吼吼鲸",
       "french": "Wailmer"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 321,
@@ -2890,7 +3363,8 @@
       "japanese": "ホエルオー",
       "chinese": "吼鲸王",
       "french": "Wailord"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 322,
@@ -2899,7 +3373,9 @@
       "japanese": "ドンメル",
       "chinese": "呆火驼",
       "french": "Chamallot"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 323,
@@ -2908,7 +3384,8 @@
       "japanese": "バクーダ",
       "chinese": "喷火驼",
       "french": "Camérupt"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 324,
@@ -2917,7 +3394,9 @@
       "japanese": "コータス",
       "chinese": "煤炭龟",
       "french": "Chartor"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 325,
@@ -2926,7 +3405,9 @@
       "japanese": "バネブー",
       "chinese": "跳跳猪",
       "french": "Spoink"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 326,
@@ -2935,7 +3416,8 @@
       "japanese": "ブーピッグ",
       "chinese": "噗噗猪",
       "french": "Groret"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 327,
@@ -2944,7 +3426,9 @@
       "japanese": "パッチール",
       "chinese": "晃晃斑",
       "french": "Spinda"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 328,
@@ -2953,7 +3437,9 @@
       "japanese": "ナックラー",
       "chinese": "大颚蚁",
       "french": "Kraknoix"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 329,
@@ -2962,7 +3448,8 @@
       "japanese": "ビブラーバ",
       "chinese": "超音波幼虫",
       "french": "Vibraninf"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 330,
@@ -2971,7 +3458,8 @@
       "japanese": "フライゴン",
       "chinese": "沙漠蜻蜓",
       "french": "Libégon"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 331,
@@ -2980,7 +3468,9 @@
       "japanese": "サボネア",
       "chinese": "刺球仙人掌",
       "french": "Cacnea"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 332,
@@ -2989,7 +3479,8 @@
       "japanese": "ノクタス",
       "chinese": "梦歌仙人掌",
       "french": "Cacturne"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 333,
@@ -2998,7 +3489,9 @@
       "japanese": "チルット",
       "chinese": "青绵鸟",
       "french": "Tylton"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 334,
@@ -3007,7 +3500,8 @@
       "japanese": "チルタリス",
       "chinese": "七夕青鸟",
       "french": "Altaria"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 335,
@@ -3016,7 +3510,9 @@
       "japanese": "ザングース",
       "chinese": "猫鼬斩",
       "french": "Mangriff"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 336,
@@ -3025,7 +3521,9 @@
       "japanese": "ハブネーク",
       "chinese": "饭匙蛇",
       "french": "Séviper"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 337,
@@ -3034,7 +3532,9 @@
       "japanese": "ルナトーン",
       "chinese": "月石",
       "french": "Séléroc"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 338,
@@ -3043,7 +3543,9 @@
       "japanese": "ソルロック",
       "chinese": "太阳岩",
       "french": "Solaroc"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 339,
@@ -3052,7 +3554,9 @@
       "japanese": "ドジョッチ",
       "chinese": "泥泥鳅",
       "french": "Barloche"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 340,
@@ -3061,7 +3565,8 @@
       "japanese": "ナマズン",
       "chinese": "鲶鱼王",
       "french": "Barbicha"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 341,
@@ -3070,7 +3575,9 @@
       "japanese": "ヘイガニ",
       "chinese": "龙虾小兵",
       "french": "Écrapince"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 342,
@@ -3079,7 +3586,8 @@
       "japanese": "シザリガー",
       "chinese": "铁螯龙虾",
       "french": "Colhomard"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 343,
@@ -3088,7 +3596,9 @@
       "japanese": "ヤジロン",
       "chinese": "天秤偶",
       "french": "Balbuto"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 344,
@@ -3097,7 +3607,8 @@
       "japanese": "ネンドール",
       "chinese": "念力土偶",
       "french": "Kaorine"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 345,
@@ -3106,7 +3617,9 @@
       "japanese": "リリーラ",
       "chinese": "触手百合",
       "french": "Lilia"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 346,
@@ -3115,7 +3628,8 @@
       "japanese": "ユレイドル",
       "chinese": "摇篮百合",
       "french": "Vacilys"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 347,
@@ -3124,7 +3638,9 @@
       "japanese": "アノプス",
       "chinese": "太古羽虫",
       "french": "Anorith"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 348,
@@ -3133,7 +3649,8 @@
       "japanese": "アーマルド",
       "chinese": "太古盔甲",
       "french": "Armaldo"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 349,
@@ -3142,7 +3659,9 @@
       "japanese": "ヒンバス",
       "chinese": "丑丑鱼",
       "french": "Barpau"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 350,
@@ -3151,7 +3670,8 @@
       "japanese": "ミロカロス",
       "chinese": "美纳斯",
       "french": "Milobellus"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 351,
@@ -3160,7 +3680,9 @@
       "japanese": "ポワルン",
       "chinese": "飘浮泡泡",
       "french": "Morphéo"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 352,
@@ -3169,7 +3691,9 @@
       "japanese": "カクレオン",
       "chinese": "变隐龙",
       "french": "Kecleon"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 353,
@@ -3178,7 +3702,9 @@
       "japanese": "カゲボウズ",
       "chinese": "怨影娃娃",
       "french": "Polichombr"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 354,
@@ -3187,7 +3713,8 @@
       "japanese": "ジュペッタ",
       "chinese": "诅咒娃娃",
       "french": "Branette"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 355,
@@ -3196,7 +3723,9 @@
       "japanese": "ヨマワル",
       "chinese": "夜巡灵",
       "french": "Skelénox"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 356,
@@ -3205,7 +3734,8 @@
       "japanese": "サマヨール",
       "chinese": "彷徨夜灵",
       "french": "Téraclope"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 357,
@@ -3214,7 +3744,9 @@
       "japanese": "トロピウス",
       "chinese": "热带龙",
       "french": "Tropius"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 358,
@@ -3223,7 +3755,8 @@
       "japanese": "チリーン",
       "chinese": "风铃铃",
       "french": "Éoko"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 359,
@@ -3232,7 +3765,9 @@
       "japanese": "アブソル",
       "chinese": "阿勃梭鲁",
       "french": "Absol"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 360,
@@ -3241,7 +3776,9 @@
       "japanese": "ソーナノ",
       "chinese": "小果然",
       "french": "Okéoké"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 361,
@@ -3250,7 +3787,9 @@
       "japanese": "ユキワラシ",
       "chinese": "雪童子",
       "french": "Stalgamin"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 362,
@@ -3259,7 +3798,8 @@
       "japanese": "オニゴーリ",
       "chinese": "冰鬼护",
       "french": "Oniglali"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 363,
@@ -3268,7 +3808,9 @@
       "japanese": "タマザラシ",
       "chinese": "海豹球",
       "french": "Obalie"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 364,
@@ -3277,7 +3819,8 @@
       "japanese": "トドグラー",
       "chinese": "海魔狮",
       "french": "Phogleur"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 365,
@@ -3286,7 +3829,8 @@
       "japanese": "トドゼルガ",
       "chinese": "帝牙海狮",
       "french": "Kaimorse"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 366,
@@ -3295,7 +3839,9 @@
       "japanese": "パールル",
       "chinese": "珍珠贝",
       "french": "Coquiperl"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 367,
@@ -3304,7 +3850,8 @@
       "japanese": "ハンテール",
       "chinese": "猎斑鱼",
       "french": "Serpang"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 368,
@@ -3313,7 +3860,8 @@
       "japanese": "サクラビス",
       "chinese": "樱花鱼",
       "french": "Rosabyss"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 369,
@@ -3322,7 +3870,9 @@
       "japanese": "ジーランス",
       "chinese": "古空棘鱼",
       "french": "Relicanth"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 370,
@@ -3331,7 +3881,9 @@
       "japanese": "ラブカス",
       "chinese": "爱心鱼",
       "french": "Lovdisc"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 371,
@@ -3340,7 +3892,9 @@
       "japanese": "タツベイ",
       "chinese": "宝贝龙",
       "french": "Draby"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 372,
@@ -3349,7 +3903,8 @@
       "japanese": "コモルー",
       "chinese": "甲壳龙",
       "french": "Drackhaus"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 373,
@@ -3358,7 +3913,8 @@
       "japanese": "ボーマンダ",
       "chinese": "暴飞龙",
       "french": "Drattak"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 374,
@@ -3367,7 +3923,9 @@
       "japanese": "ダンバル",
       "chinese": "铁哑铃",
       "french": "Terhal"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 375,
@@ -3376,7 +3934,8 @@
       "japanese": "メタング",
       "chinese": "金属怪",
       "french": "Métang"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 376,
@@ -3385,7 +3944,8 @@
       "japanese": "メタグロス",
       "chinese": "巨金怪",
       "french": "Métalosse"
-    }
+    },
+    "region": "Hoenn"
   },
   {
     "id": 377,
@@ -3394,7 +3954,9 @@
       "japanese": "レジロック",
       "chinese": "雷吉洛克",
       "french": "Regirock"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 378,
@@ -3403,7 +3965,9 @@
       "japanese": "レジアイス",
       "chinese": "雷吉艾斯",
       "french": "Regice"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 379,
@@ -3412,7 +3976,9 @@
       "japanese": "レジスチル",
       "chinese": "雷吉斯奇鲁",
       "french": "Registeel"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 380,
@@ -3421,7 +3987,9 @@
       "japanese": "ラティアス",
       "chinese": "拉帝亚斯",
       "french": "Latias"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 381,
@@ -3430,7 +3998,9 @@
       "japanese": "ラティオス",
       "chinese": "拉帝欧斯",
       "french": "Latios"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 382,
@@ -3439,7 +4009,9 @@
       "japanese": "カイオーガ",
       "chinese": "盖欧卡",
       "french": "Kyogre"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 383,
@@ -3448,7 +4020,9 @@
       "japanese": "グラードン",
       "chinese": "固拉多",
       "french": "Groudon"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 384,
@@ -3457,7 +4031,9 @@
       "japanese": "レックウザ",
       "chinese": "烈空坐",
       "french": "Rayquaza"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 385,
@@ -3466,7 +4042,9 @@
       "japanese": "ジラーチ",
       "chinese": "基拉祈",
       "french": "Jirachi"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 386,
@@ -3475,7 +4053,9 @@
       "japanese": "デオキシス",
       "chinese": "代欧奇希斯",
       "french": "Deoxys"
-    }
+    },
+    "region": "Hoenn",
+    "basic": true
   },
   {
     "id": 387,
@@ -3484,7 +4064,9 @@
       "japanese": "ナエトル",
       "chinese": "草苗龟",
       "french": "Tortipouss"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 388,
@@ -3493,7 +4075,8 @@
       "japanese": "ハヤシガメ",
       "chinese": "树林龟",
       "french": "Boskara"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 389,
@@ -3502,7 +4085,8 @@
       "japanese": "ドダイトス",
       "chinese": "土台龟",
       "french": "Torterra"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 390,
@@ -3511,7 +4095,9 @@
       "japanese": "ヒコザル",
       "chinese": "小火焰猴",
       "french": "Ouisticram"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 391,
@@ -3520,7 +4106,8 @@
       "japanese": "モウカザル",
       "chinese": "猛火猴",
       "french": "Chimpenfeu"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 392,
@@ -3529,7 +4116,8 @@
       "japanese": "ゴウカザル",
       "chinese": "烈焰猴",
       "french": "Simiabraz"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 393,
@@ -3538,7 +4126,9 @@
       "japanese": "ポッチャマ",
       "chinese": "波加曼",
       "french": "Tiplouf"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 394,
@@ -3547,7 +4137,8 @@
       "japanese": "ポッタイシ",
       "chinese": "波皇子",
       "french": "Prinplouf"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 395,
@@ -3556,7 +4147,8 @@
       "japanese": "エンペルト",
       "chinese": "帝王拿波",
       "french": "Pingoléon"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 396,
@@ -3565,7 +4157,9 @@
       "japanese": "ムックル",
       "chinese": "姆克儿",
       "french": "Étourmi"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 397,
@@ -3574,7 +4168,8 @@
       "japanese": "ムクバード",
       "chinese": "姆克鸟",
       "french": "Étourvol"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 398,
@@ -3583,7 +4178,8 @@
       "japanese": "ムクホーク",
       "chinese": "姆克鹰",
       "french": "Étouraptor"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 399,
@@ -3592,7 +4188,9 @@
       "japanese": "ビッパ",
       "chinese": "大牙狸",
       "french": "Keunotor"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 400,
@@ -3601,7 +4199,8 @@
       "japanese": "ビーダル",
       "chinese": "大尾狸",
       "french": "Castorno"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 401,
@@ -3610,7 +4209,9 @@
       "japanese": "コロボーシ",
       "chinese": "圆法师",
       "french": "Crikzik"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 402,
@@ -3619,7 +4220,8 @@
       "japanese": "コロトック",
       "chinese": "音箱蟀",
       "french": "Mélokrik"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 403,
@@ -3628,7 +4230,9 @@
       "japanese": "コリンク",
       "chinese": "小猫怪",
       "french": "Lixy"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 404,
@@ -3637,7 +4241,8 @@
       "japanese": "ルクシオ",
       "chinese": "勒克猫",
       "french": "Luxio"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 405,
@@ -3646,7 +4251,8 @@
       "japanese": "レントラー",
       "chinese": "伦琴猫",
       "french": "Luxray"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 406,
@@ -3655,7 +4261,9 @@
       "japanese": "スボミー",
       "chinese": "含羞苞",
       "french": "Rozbouton"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 407,
@@ -3664,7 +4272,8 @@
       "japanese": "ロズレイド",
       "chinese": "罗丝雷朵",
       "french": "Roserade"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 408,
@@ -3673,7 +4282,9 @@
       "japanese": "ズガイドス",
       "chinese": "头盖龙",
       "french": "Kranidos"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 409,
@@ -3682,7 +4293,8 @@
       "japanese": "ラムパルド",
       "chinese": "战槌龙",
       "french": "Charkos"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 410,
@@ -3691,7 +4303,9 @@
       "japanese": "タテトプス",
       "chinese": "盾甲龙",
       "french": "Dinoclier"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 411,
@@ -3700,7 +4314,8 @@
       "japanese": "トリデプス",
       "chinese": "护城龙",
       "french": "Bastiodon"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 412,
@@ -3709,7 +4324,9 @@
       "japanese": "ミノムッチ",
       "chinese": "结草儿",
       "french": "Cheniti"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 413,
@@ -3718,7 +4335,8 @@
       "japanese": "ミノマダム",
       "chinese": "结草贵妇",
       "french": "Cheniselle"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 414,
@@ -3727,7 +4345,8 @@
       "japanese": "ガーメイル",
       "chinese": "绅士蛾",
       "french": "Papilord"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 415,
@@ -3736,7 +4355,9 @@
       "japanese": "ミツハニー",
       "chinese": "三蜜蜂",
       "french": "Apitrini"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 416,
@@ -3745,7 +4366,8 @@
       "japanese": "ビークイン",
       "chinese": "蜂女王",
       "french": "Apireine"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 417,
@@ -3754,7 +4376,9 @@
       "japanese": "パチリス",
       "chinese": "帕奇利兹",
       "french": "Pachirisu"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 418,
@@ -3763,7 +4387,9 @@
       "japanese": "ブイゼル",
       "chinese": "泳圈鼬",
       "french": "Mustébouée"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 419,
@@ -3772,7 +4398,8 @@
       "japanese": "フローゼル",
       "chinese": "浮潜鼬",
       "french": "Mustéflott"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 420,
@@ -3781,7 +4408,9 @@
       "japanese": "チェリンボ",
       "chinese": "樱花宝",
       "french": "Ceribou"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 421,
@@ -3790,7 +4419,8 @@
       "japanese": "チェリム",
       "chinese": "樱花儿",
       "french": "Ceriflor"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 422,
@@ -3799,7 +4429,9 @@
       "japanese": "カラナクシ",
       "chinese": "无壳海兔",
       "french": "Sancoki"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 423,
@@ -3808,7 +4440,8 @@
       "japanese": "トリトドン",
       "chinese": "海兔兽",
       "french": "Tritosor"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 424,
@@ -3817,7 +4450,8 @@
       "japanese": "エテボース",
       "chinese": "双尾怪手",
       "french": "Capidextre"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 425,
@@ -3826,7 +4460,9 @@
       "japanese": "フワンテ",
       "chinese": "飘飘球",
       "french": "Baudrive"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 426,
@@ -3835,7 +4471,8 @@
       "japanese": "フワライド",
       "chinese": "随风球",
       "french": "Grodrive"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 427,
@@ -3844,7 +4481,9 @@
       "japanese": "ミミロル",
       "chinese": "卷卷耳",
       "french": "Laporeille"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 428,
@@ -3853,7 +4492,8 @@
       "japanese": "ミミロップ",
       "chinese": "长耳兔",
       "french": "Lockpin"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 429,
@@ -3862,7 +4502,8 @@
       "japanese": "ムウマージ",
       "chinese": "梦妖魔",
       "french": "Magirêve"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 430,
@@ -3871,7 +4512,8 @@
       "japanese": "ドンカラス",
       "chinese": "乌鸦头头",
       "french": "Corboss"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 431,
@@ -3880,7 +4522,9 @@
       "japanese": "ニャルマー",
       "chinese": "魅力喵",
       "french": "Chaglam"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 432,
@@ -3889,7 +4533,8 @@
       "japanese": "ブニャット",
       "chinese": "东施喵",
       "french": "Chaffreux"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 433,
@@ -3898,7 +4543,9 @@
       "japanese": "リーシャン",
       "chinese": "铃铛响",
       "french": "Korillon"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 434,
@@ -3907,7 +4554,9 @@
       "japanese": "スカンプー",
       "chinese": "臭鼬噗",
       "french": "Moufouette"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 435,
@@ -3916,7 +4565,8 @@
       "japanese": "スカタンク",
       "chinese": "坦克臭鼬",
       "french": "Moufflair"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 436,
@@ -3925,7 +4575,9 @@
       "japanese": "ドーミラー",
       "chinese": "铜镜怪",
       "french": "Archéomire"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 437,
@@ -3934,7 +4586,8 @@
       "japanese": "ドータクン",
       "chinese": "青铜钟",
       "french": "Archéodong"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 438,
@@ -3943,7 +4596,9 @@
       "japanese": "ウソハチ",
       "chinese": "盆才怪",
       "french": "Manzaï"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 439,
@@ -3953,7 +4608,9 @@
       "japanese": "マネネ",
       "chinese": "魔尼尼",
       "french": "Mime Jr"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 440,
@@ -3962,7 +4619,9 @@
       "japanese": "ピンプク",
       "chinese": "小福蛋",
       "french": "Ptiravi"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 441,
@@ -3971,7 +4630,9 @@
       "japanese": "ペラップ",
       "chinese": "聒噪鸟",
       "french": "Pijako"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 442,
@@ -3980,7 +4641,9 @@
       "japanese": "ミカルゲ",
       "chinese": "花岩怪",
       "french": "Spiritomb"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 443,
@@ -3989,7 +4652,9 @@
       "japanese": "フカマル",
       "chinese": "圆陆鲨",
       "french": "Griknot"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 444,
@@ -3998,7 +4663,8 @@
       "japanese": "ガバイト",
       "chinese": "尖牙陆鲨",
       "french": "Carmache"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 445,
@@ -4007,7 +4673,8 @@
       "japanese": "ガブリアス",
       "chinese": "烈咬陆鲨",
       "french": "Carchacrok"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 446,
@@ -4016,7 +4683,9 @@
       "japanese": "ゴンベ",
       "chinese": "小卡比兽",
       "french": "Goinfrex"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 447,
@@ -4025,7 +4694,9 @@
       "japanese": "リオル",
       "chinese": "利欧路",
       "french": "Riolu"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 448,
@@ -4034,7 +4705,8 @@
       "japanese": "ルカリオ",
       "chinese": "路卡利欧",
       "french": "Lucario"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 449,
@@ -4043,7 +4715,9 @@
       "japanese": "ヒポポタス",
       "chinese": "沙河马",
       "french": "Hippopotas"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 450,
@@ -4052,7 +4726,8 @@
       "japanese": "カバルドン",
       "chinese": "河马兽",
       "french": "Hippodocus"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 451,
@@ -4061,7 +4736,9 @@
       "japanese": "スコルピ",
       "chinese": "钳尾蝎",
       "french": "Rapion"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 452,
@@ -4070,7 +4747,8 @@
       "japanese": "ドラピオン",
       "chinese": "龙王蝎",
       "french": "Drascore"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 453,
@@ -4079,7 +4757,9 @@
       "japanese": "グレッグル",
       "chinese": "不良蛙",
       "french": "Cradopaud"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 454,
@@ -4088,7 +4768,8 @@
       "japanese": "ドクロッグ",
       "chinese": "毒骷蛙",
       "french": "Coatox"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 455,
@@ -4097,7 +4778,9 @@
       "japanese": "マスキッパ",
       "chinese": "尖牙笼",
       "french": "Vortente"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 456,
@@ -4106,7 +4789,9 @@
       "japanese": "ケイコウオ",
       "chinese": "荧光鱼",
       "french": "Écayon"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 457,
@@ -4115,7 +4800,8 @@
       "japanese": "ネオラント",
       "chinese": "霓虹鱼",
       "french": "Luminéon"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 458,
@@ -4124,7 +4810,9 @@
       "japanese": "タマンタ",
       "chinese": "小球飞鱼",
       "french": "Babimanta"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 459,
@@ -4133,7 +4821,9 @@
       "japanese": "ユキカブリ",
       "chinese": "雪笠怪",
       "french": "Blizzi"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 460,
@@ -4142,7 +4832,8 @@
       "japanese": "ユキノオー",
       "chinese": "暴雪王",
       "french": "Blizzaroi"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 461,
@@ -4151,7 +4842,8 @@
       "japanese": "マニューラ",
       "chinese": "玛狃拉",
       "french": "Dimoret"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 462,
@@ -4160,7 +4852,8 @@
       "japanese": "ジバコイル",
       "chinese": "自爆磁怪",
       "french": "Magnézone"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 463,
@@ -4169,7 +4862,8 @@
       "japanese": "ベロベルト",
       "chinese": "大舌舔",
       "french": "Coudlangue"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 464,
@@ -4178,7 +4872,8 @@
       "japanese": "ドサイドン",
       "chinese": "超甲狂犀",
       "french": "Rhinastoc"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 465,
@@ -4187,7 +4882,8 @@
       "japanese": "モジャンボ",
       "chinese": "巨蔓藤",
       "french": "Bouldeneu"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 466,
@@ -4196,7 +4892,8 @@
       "japanese": "エレキブル",
       "chinese": "电击魔兽",
       "french": "Élekable"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 467,
@@ -4205,7 +4902,8 @@
       "japanese": "ブーバーン",
       "chinese": "鸭嘴炎兽",
       "french": "Maganon"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 468,
@@ -4214,7 +4912,8 @@
       "japanese": "トゲキッス",
       "chinese": "波克基斯",
       "french": "Togekiss"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 469,
@@ -4223,7 +4922,8 @@
       "japanese": "メガヤンマ",
       "chinese": "远古巨蜓",
       "french": "Yanmega"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 470,
@@ -4232,7 +4932,8 @@
       "japanese": "リーフィア",
       "chinese": "叶伊布",
       "french": "Phyllali"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 471,
@@ -4241,7 +4942,8 @@
       "japanese": "グレイシア",
       "chinese": "冰伊布",
       "french": "Givrali"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 472,
@@ -4250,7 +4952,8 @@
       "japanese": "グライオン",
       "chinese": "天蝎王",
       "french": "Scorvol"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 473,
@@ -4259,7 +4962,8 @@
       "japanese": "マンムー",
       "chinese": "象牙猪",
       "french": "Mammochon"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 474,
@@ -4268,7 +4972,8 @@
       "japanese": "ポリゴンＺ",
       "chinese": "多边兽Ｚ",
       "french": "Porygon-Z"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 475,
@@ -4277,7 +4982,8 @@
       "japanese": "エルレイド",
       "chinese": "艾路雷朵",
       "french": "Gallame"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 476,
@@ -4286,7 +4992,8 @@
       "japanese": "ダイノーズ",
       "chinese": "大朝北鼻",
       "french": "Tarinorme"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 477,
@@ -4295,7 +5002,8 @@
       "japanese": "ヨノワール",
       "chinese": "黑夜魔灵",
       "french": "Noctunoir"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 478,
@@ -4304,7 +5012,8 @@
       "japanese": "ユキメノコ",
       "chinese": "雪妖女",
       "french": "Momartik"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 479,
@@ -4313,7 +5022,9 @@
       "japanese": "ロトム",
       "chinese": "洛托姆",
       "french": "Motisma"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 480,
@@ -4322,7 +5033,9 @@
       "japanese": "ユクシー",
       "chinese": "由克希",
       "french": "Créhelf"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 481,
@@ -4331,7 +5044,9 @@
       "japanese": "エムリット",
       "chinese": "艾姆利多",
       "french": "Créfollet"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 482,
@@ -4340,7 +5055,9 @@
       "japanese": "アグノム",
       "chinese": "亚克诺姆",
       "french": "Créfadet"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 483,
@@ -4349,7 +5066,9 @@
       "japanese": "ディアルガ",
       "chinese": "帝牙卢卡",
       "french": "Dialga"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 484,
@@ -4358,7 +5077,9 @@
       "japanese": "パルキア",
       "chinese": "帕路奇亚",
       "french": "Palkia"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 485,
@@ -4367,7 +5088,9 @@
       "japanese": "ヒードラン",
       "chinese": "席多蓝恩",
       "french": "Heatran"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 486,
@@ -4376,7 +5099,9 @@
       "japanese": "レジギガス",
       "chinese": "雷吉奇卡斯",
       "french": "Regigigas"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 487,
@@ -4385,7 +5110,9 @@
       "japanese": "ギラティナ",
       "chinese": "骑拉帝纳",
       "french": "Giratina"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 488,
@@ -4394,7 +5121,9 @@
       "japanese": "クレセリア",
       "chinese": "克雷色利亚",
       "french": "Cresselia"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 489,
@@ -4403,7 +5132,9 @@
       "japanese": "フィオネ",
       "chinese": "霏欧纳",
       "french": "Phione"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 490,
@@ -4412,7 +5143,8 @@
       "japanese": "マナフィ",
       "chinese": "玛纳霏",
       "french": "Manaphy"
-    }
+    },
+    "region": "Sinnoh"
   },
   {
     "id": 491,
@@ -4421,7 +5153,9 @@
       "japanese": "ダークライ",
       "chinese": "达克莱伊",
       "french": "Darkrai"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 492,
@@ -4430,7 +5164,9 @@
       "japanese": "シェイミ",
       "chinese": "谢米",
       "french": "Shaymin"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 493,
@@ -4439,7 +5175,9 @@
       "japanese": "アルセウス",
       "chinese": "阿尔宙斯",
       "french": "Arceus"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 494,
@@ -4448,7 +5186,9 @@
       "japanese": "ビクティニ",
       "chinese": "比克提尼",
       "french": "Victini"
-    }
+    },
+    "region": "Sinnoh",
+    "basic": true
   },
   {
     "id": 495,
@@ -4457,7 +5197,9 @@
       "japanese": "ツタージャ",
       "chinese": "藤藤蛇",
       "french": "Vipélierre"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 496,
@@ -4466,7 +5208,8 @@
       "japanese": "ジャノビー",
       "chinese": "青藤蛇",
       "french": "Lianaja"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 497,
@@ -4475,7 +5218,8 @@
       "japanese": "ジャローダ",
       "chinese": "君主蛇",
       "french": "Majaspic"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 498,
@@ -4484,7 +5228,9 @@
       "japanese": "ポカブ",
       "chinese": "暖暖猪",
       "french": "Gruikui"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 499,
@@ -4493,7 +5239,8 @@
       "japanese": "チャオブー",
       "chinese": "炒炒猪",
       "french": "Grotichon"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 500,
@@ -4502,7 +5249,8 @@
       "japanese": "エンブオー",
       "chinese": "炎武王",
       "french": "Roitiflam"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 501,
@@ -4511,7 +5259,9 @@
       "japanese": "ミジュマル",
       "chinese": "水水獭",
       "french": "Moustillon"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 502,
@@ -4520,7 +5270,8 @@
       "japanese": "フタチマル",
       "chinese": "双刃丸",
       "french": "Mateloutre"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 503,
@@ -4529,7 +5280,8 @@
       "japanese": "ダイケンキ",
       "chinese": "大剑鬼",
       "french": "Clamiral"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 504,
@@ -4538,7 +5290,9 @@
       "japanese": "ミネズミ",
       "chinese": "探探鼠",
       "french": "Ratentif"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 505,
@@ -4547,7 +5301,8 @@
       "japanese": "ミルホッグ",
       "chinese": "步哨鼠",
       "french": "Miradar"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 506,
@@ -4556,7 +5311,9 @@
       "japanese": "ヨーテリー",
       "chinese": "小约克",
       "french": "Ponchiot"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 507,
@@ -4565,7 +5322,8 @@
       "japanese": "ハーデリア",
       "chinese": "哈约克",
       "french": "Ponchien"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 508,
@@ -4574,7 +5332,8 @@
       "japanese": "ムーランド",
       "chinese": "长毛狗",
       "french": "Mastouffe"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 509,
@@ -4583,7 +5342,9 @@
       "japanese": "チョロネコ",
       "chinese": "扒手猫",
       "french": "Chacripan"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 510,
@@ -4592,7 +5353,8 @@
       "japanese": "レパルダス",
       "chinese": "酷豹",
       "french": "Léopardus"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 511,
@@ -4601,7 +5363,9 @@
       "japanese": "ヤナップ",
       "chinese": "花椰猴",
       "french": "Feuillajou"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 512,
@@ -4610,7 +5374,8 @@
       "japanese": "ヤナッキー",
       "chinese": "花椰猿",
       "french": "Feuiloutan"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 513,
@@ -4619,7 +5384,9 @@
       "japanese": "バオップ",
       "chinese": "爆香猴",
       "french": "Flamajou"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 514,
@@ -4628,7 +5395,8 @@
       "japanese": "バオッキー",
       "chinese": "爆香猿",
       "french": "Flamoutan"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 515,
@@ -4637,7 +5405,9 @@
       "japanese": "ヒヤップ",
       "chinese": "冷水猴",
       "french": "Flotajou"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 516,
@@ -4646,7 +5416,8 @@
       "japanese": "ヒヤッキー",
       "chinese": "冷水猿",
       "french": "Flotoutan"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 517,
@@ -4655,7 +5426,9 @@
       "japanese": "ムンナ",
       "chinese": "食梦梦",
       "french": "Munna"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 518,
@@ -4664,7 +5437,8 @@
       "japanese": "ムシャーナ",
       "chinese": "梦梦蚀",
       "french": "Mushana"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 519,
@@ -4673,7 +5447,9 @@
       "japanese": "マメパト",
       "chinese": "豆豆鸽",
       "french": "Poichigeon"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 520,
@@ -4682,7 +5458,8 @@
       "japanese": "ハトーボー",
       "chinese": "咕咕鸽",
       "french": "Colombeau"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 521,
@@ -4691,7 +5468,8 @@
       "japanese": "ケンホロウ",
       "chinese": "高傲雉鸡",
       "french": "Déflaisan"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 522,
@@ -4700,7 +5478,9 @@
       "japanese": "シママ",
       "chinese": "斑斑马",
       "french": "Zébibron"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 523,
@@ -4709,7 +5489,8 @@
       "japanese": "ゼブライカ",
       "chinese": "雷电斑马",
       "french": "Zéblitz"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 524,
@@ -4718,7 +5499,9 @@
       "japanese": "ダンゴロ",
       "chinese": "石丸子",
       "french": "Nodulithe"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 525,
@@ -4727,7 +5510,8 @@
       "japanese": "ガントル",
       "chinese": "地幔岩",
       "french": "Géolithe"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 526,
@@ -4736,7 +5520,8 @@
       "japanese": "ギガイアス",
       "chinese": "庞岩怪",
       "french": "Gigalithe"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 527,
@@ -4745,7 +5530,9 @@
       "japanese": "コロモリ",
       "chinese": "滚滚蝙蝠",
       "french": "Chovsourir"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 528,
@@ -4754,7 +5541,8 @@
       "japanese": "ココロモリ",
       "chinese": "心蝙蝠",
       "french": "Rhinolove"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 529,
@@ -4763,7 +5551,9 @@
       "japanese": "モグリュー",
       "chinese": "螺钉地鼠",
       "french": "Rototaupe"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 530,
@@ -4772,7 +5562,8 @@
       "japanese": "ドリュウズ",
       "chinese": "龙头地鼠",
       "french": "Minotaupe"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 531,
@@ -4781,7 +5572,9 @@
       "japanese": "タブンネ",
       "chinese": "差不多娃娃",
       "french": "Nanméouïe"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 532,
@@ -4790,7 +5583,9 @@
       "japanese": "ドッコラー",
       "chinese": "搬运小匠",
       "french": "Charpenti"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 533,
@@ -4799,7 +5594,8 @@
       "japanese": "ドテッコツ",
       "chinese": "铁骨土人",
       "french": "Ouvrifier"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 534,
@@ -4808,7 +5604,8 @@
       "japanese": "ローブシン",
       "chinese": "修建老匠",
       "french": "Bétochef"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 535,
@@ -4817,7 +5614,9 @@
       "japanese": "オタマロ",
       "chinese": "圆蝌蚪",
       "french": "Tritonde"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 536,
@@ -4826,7 +5625,8 @@
       "japanese": "ガマガル",
       "chinese": "蓝蟾蜍",
       "french": "Batracné"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 537,
@@ -4835,7 +5635,8 @@
       "japanese": "ガマゲロゲ",
       "chinese": "蟾蜍王",
       "french": "Crapustule"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 538,
@@ -4844,7 +5645,9 @@
       "japanese": "ナゲキ",
       "chinese": "投摔鬼",
       "french": "Judokrak"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 539,
@@ -4853,7 +5656,9 @@
       "japanese": "ダゲキ",
       "chinese": "打击鬼",
       "french": "Karaclée"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 540,
@@ -4862,7 +5667,9 @@
       "japanese": "クルミル",
       "chinese": "虫宝包",
       "french": "Larveyette"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 541,
@@ -4871,7 +5678,8 @@
       "japanese": "クルマユ",
       "chinese": "宝包茧",
       "french": "Couverdure"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 542,
@@ -4880,7 +5688,8 @@
       "japanese": "ハハコモリ",
       "chinese": "保姆虫",
       "french": "Manternel"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 543,
@@ -4889,7 +5698,9 @@
       "japanese": "フシデ",
       "chinese": "百足蜈蚣",
       "french": "Venipatte"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 544,
@@ -4898,7 +5709,8 @@
       "japanese": "ホイーガ",
       "chinese": "车轮球",
       "french": "Scobolide"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 545,
@@ -4907,7 +5719,8 @@
       "japanese": "ペンドラー",
       "chinese": "蜈蚣王",
       "french": "Brutapode"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 546,
@@ -4916,7 +5729,9 @@
       "japanese": "モンメン",
       "chinese": "木棉球",
       "french": "Doudouvet"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 547,
@@ -4925,7 +5740,8 @@
       "japanese": "エルフーン",
       "chinese": "风妖精",
       "french": "Farfaduvet"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 548,
@@ -4934,7 +5750,8 @@
       "japanese": "チュリネ",
       "chinese": "百合根娃娃",
       "french": "Chlorobule"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 549,
@@ -4943,7 +5760,8 @@
       "japanese": "ドレディア",
       "chinese": "裙儿小姐",
       "french": "Fragilady"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 550,
@@ -4952,7 +5770,9 @@
       "japanese": "バスラオ",
       "chinese": "野蛮鲈鱼",
       "french": "Bargantua"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 551,
@@ -4961,7 +5781,9 @@
       "japanese": "メグロコ",
       "chinese": "黑眼鳄",
       "french": "Mascaïman"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 552,
@@ -4970,7 +5792,8 @@
       "japanese": "ワルビル",
       "chinese": "混混鳄",
       "french": "Escroco"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 553,
@@ -4979,7 +5802,8 @@
       "japanese": "ワルビアル",
       "chinese": "流氓鳄",
       "french": "Crocorible"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 554,
@@ -4988,7 +5812,9 @@
       "japanese": "ダルマッカ",
       "chinese": "火红不倒翁",
       "french": "Darumarond"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 555,
@@ -4997,7 +5823,8 @@
       "japanese": "ヒヒダルマ",
       "chinese": "达摩狒狒",
       "french": "Darumacho"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 556,
@@ -5006,7 +5833,9 @@
       "japanese": "マラカッチ",
       "chinese": "沙铃仙人掌",
       "french": "Maracachi"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 557,
@@ -5015,7 +5844,9 @@
       "japanese": "イシズマイ",
       "chinese": "石居蟹",
       "french": "Crabicoque"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 558,
@@ -5024,7 +5855,8 @@
       "japanese": "イワパレス",
       "chinese": "岩殿居蟹",
       "french": "Crabaraque"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 559,
@@ -5033,7 +5865,9 @@
       "japanese": "ズルッグ",
       "chinese": "滑滑小子",
       "french": "Baggiguane"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 560,
@@ -5042,7 +5876,8 @@
       "japanese": "ズルズキン",
       "chinese": "头巾混混",
       "french": "Baggaïd"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 561,
@@ -5051,7 +5886,9 @@
       "japanese": "シンボラー",
       "chinese": "象征鸟",
       "french": "Cryptéro"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 562,
@@ -5060,7 +5897,9 @@
       "japanese": "デスマス",
       "chinese": "哭哭面具",
       "french": "Tutafeh"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 563,
@@ -5069,7 +5908,8 @@
       "japanese": "デスカーン",
       "chinese": "死神棺",
       "french": "Tutankafer"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 564,
@@ -5078,7 +5918,9 @@
       "japanese": "プロトーガ",
       "chinese": "原盖海龟",
       "french": "Carapagos"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 565,
@@ -5087,7 +5929,8 @@
       "japanese": "アバゴーラ",
       "chinese": "肋骨海龟",
       "french": "Mégapagos"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 566,
@@ -5096,7 +5939,9 @@
       "japanese": "アーケン",
       "chinese": "始祖小鸟",
       "french": "Arkéapti"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 567,
@@ -5105,7 +5950,8 @@
       "japanese": "アーケオス",
       "chinese": "始祖大鸟",
       "french": "Aéroptéryx"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 568,
@@ -5114,7 +5960,9 @@
       "japanese": "ヤブクロン",
       "chinese": "破破袋",
       "french": "Miamiasme"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 569,
@@ -5123,7 +5971,8 @@
       "japanese": "ダストダス",
       "chinese": "灰尘山",
       "french": "Miasmax"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 570,
@@ -5132,7 +5981,9 @@
       "japanese": "ゾロア",
       "chinese": "索罗亚",
       "french": "Zorua"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 571,
@@ -5141,7 +5992,8 @@
       "japanese": "ゾロアーク",
       "chinese": "索罗亚克",
       "french": "Zoroark"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 572,
@@ -5150,7 +6002,9 @@
       "japanese": "チラーミィ",
       "chinese": "泡沫栗鼠",
       "french": "Chinchidou"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 573,
@@ -5159,7 +6013,8 @@
       "japanese": "チラチーノ",
       "chinese": "奇诺栗鼠",
       "french": "Pashmilla"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 574,
@@ -5168,7 +6023,9 @@
       "japanese": "ゴチム",
       "chinese": "哥德宝宝",
       "french": "Scrutella"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 575,
@@ -5177,7 +6034,8 @@
       "japanese": "ゴチミル",
       "chinese": "哥德小童",
       "french": "Mesmérella"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 576,
@@ -5186,7 +6044,8 @@
       "japanese": "ゴチルゼル",
       "chinese": "哥德小姐",
       "french": "Sidérella"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 577,
@@ -5195,7 +6054,9 @@
       "japanese": "ユニラン",
       "chinese": "单卵细胞球",
       "french": "Nucléos"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 578,
@@ -5204,7 +6065,8 @@
       "japanese": "ダブラン",
       "chinese": "双卵细胞球",
       "french": "Méios"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 579,
@@ -5213,7 +6075,8 @@
       "japanese": "ランクルス",
       "chinese": "人造细胞卵",
       "french": "Symbios"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 580,
@@ -5222,7 +6085,9 @@
       "japanese": "コアルヒー",
       "chinese": "鸭宝宝",
       "french": "Couaneton"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 581,
@@ -5231,7 +6096,8 @@
       "japanese": "スワンナ",
       "chinese": "舞天鹅",
       "french": "Lakmécygne"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 582,
@@ -5240,7 +6106,9 @@
       "japanese": "バニプッチ",
       "chinese": "迷你冰",
       "french": "Sorbébé"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 583,
@@ -5249,7 +6117,8 @@
       "japanese": "バニリッチ",
       "chinese": "多多冰",
       "french": "Sorboul"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 584,
@@ -5258,7 +6127,8 @@
       "japanese": "バイバニラ",
       "chinese": "双倍多多冰",
       "french": "Sorbouboul"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 585,
@@ -5267,7 +6137,9 @@
       "japanese": "シキジカ",
       "chinese": "四季鹿",
       "french": "Vivaldaim"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 586,
@@ -5276,7 +6148,8 @@
       "japanese": "メブキジカ",
       "chinese": "萌芽鹿",
       "french": "Haydaim"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 587,
@@ -5285,7 +6158,9 @@
       "japanese": "エモンガ",
       "chinese": "电飞鼠",
       "french": "Emolga"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 588,
@@ -5294,7 +6169,9 @@
       "japanese": "カブルモ",
       "chinese": "盖盖虫",
       "french": "Carabing"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 589,
@@ -5303,7 +6180,8 @@
       "japanese": "シュバルゴ",
       "chinese": "骑士蜗牛",
       "french": "Lançargot"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 590,
@@ -5312,7 +6190,9 @@
       "japanese": "タマゲタケ",
       "chinese": "哎呀球菇",
       "french": "Trompignon"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 591,
@@ -5321,7 +6201,8 @@
       "japanese": "モロバレル",
       "chinese": "败露球菇",
       "french": "Gaulet"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 592,
@@ -5330,7 +6211,9 @@
       "japanese": "プルリル",
       "chinese": "轻飘飘",
       "french": "Viskuse"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 593,
@@ -5339,7 +6222,8 @@
       "japanese": "ブルンゲル",
       "chinese": "胖嘟嘟",
       "french": "Moyade"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 594,
@@ -5348,7 +6232,9 @@
       "japanese": "ママンボウ",
       "chinese": "保姆曼波",
       "french": "Mamanbo"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 595,
@@ -5357,7 +6243,9 @@
       "japanese": "バチュル",
       "chinese": "电电虫",
       "french": "Statitik"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 596,
@@ -5366,7 +6254,8 @@
       "japanese": "デンチュラ",
       "chinese": "电蜘蛛",
       "french": "Mygavolt"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 597,
@@ -5375,7 +6264,9 @@
       "japanese": "テッシード",
       "chinese": "种子铁球",
       "french": "Grindur"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 598,
@@ -5384,7 +6275,8 @@
       "japanese": "ナットレイ",
       "chinese": "坚果哑铃",
       "french": "Noacier"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 599,
@@ -5393,7 +6285,9 @@
       "japanese": "ギアル",
       "chinese": "齿轮儿",
       "french": "Tic"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 600,
@@ -5402,7 +6296,8 @@
       "japanese": "ギギアル",
       "chinese": "齿轮组",
       "french": "Clic"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 601,
@@ -5411,7 +6306,8 @@
       "japanese": "ギギギアル",
       "chinese": "齿轮怪",
       "french": "Cliticlic"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 602,
@@ -5420,7 +6316,9 @@
       "japanese": "シビシラス",
       "chinese": "麻麻小鱼",
       "french": "Anchwatt"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 603,
@@ -5429,7 +6327,8 @@
       "japanese": "シビビール",
       "chinese": "麻麻鳗",
       "french": "Lampéroie"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 604,
@@ -5438,7 +6337,8 @@
       "japanese": "シビルドン",
       "chinese": "麻麻鳗鱼王",
       "french": "Ohmassacre"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 605,
@@ -5447,7 +6347,9 @@
       "japanese": "リグレー",
       "chinese": "小灰怪",
       "french": "Lewsor"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 606,
@@ -5456,7 +6358,8 @@
       "japanese": "オーベム",
       "chinese": "大宇怪",
       "french": "Neitram"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 607,
@@ -5465,7 +6368,9 @@
       "japanese": "ヒトモシ",
       "chinese": "烛光灵",
       "french": "Funécire"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 608,
@@ -5474,7 +6379,8 @@
       "japanese": "ランプラー",
       "chinese": "灯火幽灵",
       "french": "Mélancolux"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 609,
@@ -5483,7 +6389,8 @@
       "japanese": "シャンデラ",
       "chinese": "水晶灯火灵",
       "french": "Lugulabre"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 610,
@@ -5492,7 +6399,9 @@
       "japanese": "キバゴ",
       "chinese": "牙牙",
       "french": "Coupenotte"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 611,
@@ -5501,7 +6410,8 @@
       "japanese": "オノンド",
       "chinese": "斧牙龙",
       "french": "Incisache"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 612,
@@ -5510,7 +6420,8 @@
       "japanese": "オノノクス",
       "chinese": "双斧战龙",
       "french": "Tranchodon"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 613,
@@ -5519,7 +6430,9 @@
       "japanese": "クマシュン",
       "chinese": "喷嚏熊",
       "french": "Polarhume"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 614,
@@ -5528,7 +6441,8 @@
       "japanese": "ツンベアー",
       "chinese": "冻原熊",
       "french": "Polagriffe"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 615,
@@ -5537,7 +6451,9 @@
       "japanese": "フリージオ",
       "chinese": "几何雪花",
       "french": "Hexagel"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 616,
@@ -5546,7 +6462,9 @@
       "japanese": "チョボマキ",
       "chinese": "小嘴蜗",
       "french": "Escargaume"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 617,
@@ -5555,7 +6473,8 @@
       "japanese": "アギルダー",
       "chinese": "敏捷虫",
       "french": "Limaspeed"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 618,
@@ -5564,7 +6483,9 @@
       "japanese": "マッギョ",
       "chinese": "泥巴鱼",
       "french": "Limonde"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 619,
@@ -5573,7 +6494,9 @@
       "japanese": "コジョフー",
       "chinese": "功夫鼬",
       "french": "Kungfouine"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 620,
@@ -5582,7 +6505,8 @@
       "japanese": "コジョンド",
       "chinese": "师父鼬",
       "french": "Shaofouine"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 621,
@@ -5591,7 +6515,9 @@
       "japanese": "クリムガン",
       "chinese": "赤面龙",
       "french": "Drakkarmin"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 622,
@@ -5600,7 +6526,9 @@
       "japanese": "ゴビット",
       "chinese": "泥偶小人",
       "french": "Gringolem"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 623,
@@ -5609,7 +6537,8 @@
       "japanese": "ゴルーグ",
       "chinese": "泥偶巨人",
       "french": "Golemastoc"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 624,
@@ -5618,7 +6547,9 @@
       "japanese": "コマタナ",
       "chinese": "驹刀小兵",
       "french": "Scalpion"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 625,
@@ -5627,7 +6558,8 @@
       "japanese": "キリキザン",
       "chinese": "劈斩司令",
       "french": "Scalproie"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 626,
@@ -5636,7 +6568,9 @@
       "japanese": "バッフロン",
       "chinese": "爆炸头水牛",
       "french": "Frison"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 627,
@@ -5645,7 +6579,9 @@
       "japanese": "ワシボン",
       "chinese": "毛头小鹰",
       "french": "Furaiglon"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 628,
@@ -5654,7 +6590,8 @@
       "japanese": "ウォーグル",
       "chinese": "勇士雄鹰",
       "french": "Gueriaigle"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 629,
@@ -5663,7 +6600,9 @@
       "japanese": "バルチャイ",
       "chinese": "秃鹰丫头",
       "french": "Vostourno"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 630,
@@ -5672,7 +6611,8 @@
       "japanese": "バルジーナ",
       "chinese": "秃鹰娜",
       "french": "Vaututrice"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 631,
@@ -5681,7 +6621,9 @@
       "japanese": "クイタラン",
       "chinese": "熔蚁兽",
       "french": "Aflamanoir"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 632,
@@ -5690,7 +6632,9 @@
       "japanese": "アイアント",
       "chinese": "铁蚁",
       "french": "Fermite"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 633,
@@ -5699,7 +6643,9 @@
       "japanese": "モノズ",
       "chinese": "单首龙",
       "french": "Solochi"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 634,
@@ -5708,7 +6654,8 @@
       "japanese": "ジヘッド",
       "chinese": "双首暴龙",
       "french": "Diamat"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 635,
@@ -5717,7 +6664,8 @@
       "japanese": "サザンドラ",
       "chinese": "三首恶龙",
       "french": "Trioxhydre"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 636,
@@ -5726,7 +6674,9 @@
       "japanese": "メラルバ",
       "chinese": "燃烧虫",
       "french": "Pyronille"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 637,
@@ -5735,7 +6685,8 @@
       "japanese": "ウルガモス",
       "chinese": "火神蛾",
       "french": "Pyrax"
-    }
+    },
+    "region": "Unova"
   },
   {
     "id": 638,
@@ -5744,7 +6695,9 @@
       "japanese": "コバルオン",
       "chinese": "勾帕路翁",
       "french": "Cobaltium"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 639,
@@ -5753,7 +6706,9 @@
       "japanese": "テラキオン",
       "chinese": "代拉基翁",
       "french": "Terrakium"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 640,
@@ -5762,7 +6717,9 @@
       "japanese": "ビリジオン",
       "chinese": "毕力吉翁",
       "french": "Viridium"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 641,
@@ -5771,7 +6728,9 @@
       "japanese": "トルネロス",
       "chinese": "龙卷云",
       "french": "Boréas"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 642,
@@ -5780,7 +6739,9 @@
       "japanese": "ボルトロス",
       "chinese": "雷电云",
       "french": "Fulguris"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 643,
@@ -5789,7 +6750,9 @@
       "japanese": "レシラム",
       "chinese": "莱希拉姆",
       "french": "Reshiram"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 644,
@@ -5798,7 +6761,9 @@
       "japanese": "ゼクロム",
       "chinese": "捷克罗姆",
       "french": "Zekrom"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 645,
@@ -5807,7 +6772,9 @@
       "japanese": "ランドロス",
       "chinese": "土地云",
       "french": "Démétéros"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 646,
@@ -5816,7 +6783,9 @@
       "japanese": "キュレム",
       "chinese": "酋雷姆",
       "french": "Kyurem"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 647,
@@ -5825,7 +6794,9 @@
       "japanese": "ケルディオ",
       "chinese": "凯路迪欧",
       "french": "Keldeo"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 648,
@@ -5834,7 +6805,9 @@
       "japanese": "メロエッタ",
       "chinese": "美洛耶塔",
       "french": "Meloetta"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 649,
@@ -5843,7 +6816,9 @@
       "japanese": "ゲノセクト",
       "chinese": "盖诺赛克特",
       "french": "Genesect"
-    }
+    },
+    "region": "Unova",
+    "basic": true
   },
   {
     "id": 650,
@@ -5852,7 +6827,9 @@
       "japanese": "ハリマロン",
       "chinese": "哈力栗",
       "french": "Marisson"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 651,
@@ -5861,7 +6838,8 @@
       "japanese": "ハリボーグ",
       "chinese": "胖胖哈力",
       "french": "Boguérisse"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 652,
@@ -5870,7 +6848,8 @@
       "japanese": "ブリガロン",
       "chinese": "布里卡隆",
       "french": "Blindépique"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 653,
@@ -5879,7 +6858,9 @@
       "japanese": "フォッコ",
       "chinese": "火狐狸",
       "french": "Feunnec"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 654,
@@ -5888,7 +6869,8 @@
       "japanese": "テールナー",
       "chinese": "长尾火狐",
       "french": "Roussil"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 655,
@@ -5897,7 +6879,8 @@
       "japanese": "マフォクシー",
       "chinese": "妖火红狐",
       "french": "Goupelin"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 656,
@@ -5906,7 +6889,9 @@
       "japanese": "ケロマツ",
       "chinese": "呱呱泡蛙",
       "french": "Grenousse"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 657,
@@ -5915,7 +6900,8 @@
       "japanese": "ゲコガシラ",
       "chinese": "呱头蛙",
       "french": "Croâporal"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 658,
@@ -5924,7 +6910,8 @@
       "japanese": "ゲッコウガ",
       "chinese": "甲贺忍蛙",
       "french": "Amphinobi"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 659,
@@ -5933,7 +6920,9 @@
       "japanese": "ホルビー",
       "chinese": "掘掘兔",
       "french": "Sapereau"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 660,
@@ -5942,7 +6931,8 @@
       "japanese": "ホルード",
       "chinese": "掘地兔",
       "french": "Excavarenne"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 661,
@@ -5951,7 +6941,9 @@
       "japanese": "ヤヤコマ",
       "chinese": "小箭雀",
       "french": "Passerouge"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 662,
@@ -5960,7 +6952,8 @@
       "japanese": "ヒノヤコマ",
       "chinese": "火箭雀",
       "french": "Braisillon"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 663,
@@ -5969,7 +6962,8 @@
       "japanese": "ファイアロー",
       "chinese": "烈箭鹰",
       "french": "Flambusard"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 664,
@@ -5978,7 +6972,9 @@
       "japanese": "コフキムシ",
       "chinese": "粉蝶虫",
       "french": "Lépidonille"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 665,
@@ -5987,7 +6983,8 @@
       "japanese": "コフーライ",
       "chinese": "粉蝶蛹",
       "french": "Pérégrain"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 666,
@@ -5996,7 +6993,8 @@
       "japanese": "ビビヨン",
       "chinese": "彩粉蝶",
       "french": "Prismillon"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 667,
@@ -6005,7 +7003,9 @@
       "japanese": "シシコ",
       "chinese": "小狮狮",
       "french": "Hélionceau"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 668,
@@ -6014,7 +7014,8 @@
       "japanese": "カエンジシ",
       "chinese": "火炎狮",
       "french": "Némélios"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 669,
@@ -6023,7 +7024,10 @@
       "japanese": "フラベベ",
       "chinese": "花蓓蓓",
       "french": "Flabébé"
-    }
+    },
+    "img": "img/pokemon/regular/flabebe.png",
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 670,
@@ -6032,7 +7036,8 @@
       "japanese": "フラエッテ",
       "chinese": "花叶蒂",
       "french": "FLOETTE"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 671,
@@ -6041,7 +7046,8 @@
       "japanese": "フラージェス",
       "chinese": "花洁夫人",
       "french": "Florges"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 672,
@@ -6050,7 +7056,9 @@
       "japanese": "メェークル",
       "chinese": "坐骑小羊",
       "french": "Cabriolaine"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 673,
@@ -6059,7 +7067,8 @@
       "japanese": "ゴーゴート",
       "chinese": "坐骑山羊",
       "french": "Chevroum"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 674,
@@ -6068,7 +7077,9 @@
       "japanese": "ヤンチャム",
       "chinese": "顽皮熊猫",
       "french": "Pandespiègle"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 675,
@@ -6077,7 +7088,8 @@
       "japanese": "ゴロンダ",
       "chinese": "流氓熊猫",
       "french": "Pandarbare"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 676,
@@ -6086,7 +7098,9 @@
       "japanese": "トリミアン",
       "chinese": "多丽米亚",
       "french": "Couafarel"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 677,
@@ -6095,7 +7109,9 @@
       "japanese": "ニャスパー",
       "chinese": "妙喵",
       "french": "Psystigri"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 678,
@@ -6104,7 +7120,8 @@
       "japanese": "ニャオニクス",
       "chinese": "超能妙喵",
       "french": "Mistigrix"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 679,
@@ -6113,7 +7130,9 @@
       "japanese": "ヒトツキ",
       "chinese": "独剑鞘",
       "french": "Monorpale"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 680,
@@ -6122,7 +7141,8 @@
       "japanese": "ニダンギル",
       "chinese": "双剑鞘",
       "french": "Dimoclès"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 681,
@@ -6131,7 +7151,8 @@
       "japanese": "ギルガルド",
       "chinese": "坚盾剑怪",
       "french": "Exagide"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 682,
@@ -6140,7 +7161,9 @@
       "japanese": "シュシュプ",
       "chinese": "粉香香",
       "french": "Fluvetin"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 683,
@@ -6149,7 +7172,8 @@
       "japanese": "フレフワン",
       "chinese": "芳香精",
       "french": "Cocotine"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 684,
@@ -6158,7 +7182,9 @@
       "japanese": "ペロッパフ",
       "chinese": "绵绵泡芙",
       "french": "Sucroquin"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 685,
@@ -6167,7 +7193,8 @@
       "japanese": "ペロリーム",
       "chinese": "胖甜妮",
       "french": "Cupcanaille"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 686,
@@ -6176,7 +7203,9 @@
       "japanese": "マーイーカ",
       "chinese": "好啦鱿",
       "french": "Sepiatop"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 687,
@@ -6185,7 +7214,8 @@
       "japanese": "カラマネロ",
       "chinese": "乌贼王",
       "french": "Sepiatroce"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 688,
@@ -6194,7 +7224,9 @@
       "japanese": "カメテテ",
       "chinese": "龟脚脚",
       "french": "Opermine"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 689,
@@ -6203,7 +7235,8 @@
       "japanese": "ガメノデス",
       "chinese": "龟足巨铠",
       "french": "Golgopathe"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 690,
@@ -6212,7 +7245,9 @@
       "japanese": "クズモー",
       "chinese": "垃垃藻",
       "french": "Venalgue"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 691,
@@ -6221,7 +7256,8 @@
       "japanese": "ドラミドロ",
       "chinese": "毒藻龙",
       "french": "Kravarech"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 692,
@@ -6230,7 +7266,9 @@
       "japanese": "ウデッポウ",
       "chinese": "铁臂枪虾",
       "french": "Flingouste"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 693,
@@ -6239,7 +7277,8 @@
       "japanese": "ブロスター",
       "chinese": "钢炮臂虾",
       "french": "Gamblast"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 694,
@@ -6248,7 +7287,9 @@
       "japanese": "エリキテル",
       "chinese": "伞电蜥",
       "french": "Galvaran"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 695,
@@ -6257,7 +7298,8 @@
       "japanese": "エレザード",
       "chinese": "光电伞蜥",
       "french": "Iguolta"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 696,
@@ -6266,7 +7308,9 @@
       "japanese": "チゴラス",
       "chinese": "宝宝暴龙",
       "french": "Ptyranidur"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 697,
@@ -6275,7 +7319,8 @@
       "japanese": "ガチゴラス",
       "chinese": "怪颚龙",
       "french": "Rexillius"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 698,
@@ -6284,7 +7329,9 @@
       "japanese": "アマルス",
       "chinese": "冰雪龙",
       "french": "Amagara"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 699,
@@ -6293,7 +7340,8 @@
       "japanese": "アマルルガ",
       "chinese": "冰雪巨龙",
       "french": "Dragmara"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 700,
@@ -6302,7 +7350,8 @@
       "japanese": "ニンフィア",
       "chinese": "仙子伊布",
       "french": "Nymphali"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 701,
@@ -6311,7 +7360,9 @@
       "japanese": "ルチャブル",
       "chinese": "摔角鹰人",
       "french": "Brutalibré"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 702,
@@ -6320,7 +7371,9 @@
       "japanese": "デデンネ",
       "chinese": "咚咚鼠",
       "french": "DEDENNE"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 703,
@@ -6329,7 +7382,9 @@
       "japanese": "メレシー",
       "chinese": "小碎钻",
       "french": "Strassie"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 704,
@@ -6338,7 +7393,9 @@
       "japanese": "ヌメラ",
       "chinese": "黏黏宝",
       "french": "Mucuscule"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 705,
@@ -6347,7 +7404,8 @@
       "japanese": "ヌメイル",
       "chinese": "黏美儿",
       "french": "Colimucus"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 706,
@@ -6356,7 +7414,8 @@
       "japanese": "ヌメルゴン",
       "chinese": "黏美龙",
       "french": "Muplodocus"
-    }
+    },
+    "region": "Kalos"
   },
   {
     "id": 707,
@@ -6365,7 +7424,9 @@
       "japanese": "クレッフィ",
       "chinese": "钥圈儿",
       "french": "Trousselin"
-    }
+    },
+    "region": "Kalos",
+    "basic": true
   },
   {
     "id": 808,
@@ -6374,7 +7435,9 @@
       "japanese": "メルタン",
       "chinese": "美录坦",
       "french": "Melmetal"
-    }
+    },
+    "region": "Alola",
+    "basic": true
   },
   {
     "id": 809,
@@ -6383,6 +7446,7 @@
       "japanese": "メルメタル",
       "chinese": "美录梅塔",
       "french": ""
-    }
+    },
+    "region": "Alola"
   }
 ]
