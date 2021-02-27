@@ -4,21 +4,24 @@ import Clear from './Clear.js'
 
 const Settings = () => {
   return (
-    <div className="settings hidden">
-      <div className="settings__body">
-        <h2 className="settings__hed">Settings</h2>
+    <div>
+      <nav className="menu"><a className="menu__option">Settings</a></nav>
+      <div className="settings hidden">
+        <div className="settings__body">
+          <h2 className="settings__hed">Settings</h2>
 
-        <section className="filter">
-          <h3>> Filter</h3>
-          <p>Coming soon...</p>
+          <section className="filter">
+            <h3>> Filter</h3>
+            <p>Coming soon...</p>
+          </section>
+
+          <Clear />
+        </div>
+
+        <section className="settings__close">
+          <button>Close Settings</button>
         </section>
-
-        <Clear />
       </div>
-
-      <section className="settings__close">
-        <button>Close Settings</button>
-      </section>
     </div>
   )
 }

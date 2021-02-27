@@ -36,6 +36,37 @@ section {
 /**
  * Controls
  */
+ .menu {
+  font-size: 1.2em;
+  margin-bottom: spacer();
+
+  &__option {
+    &:active,
+    &:focus,
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &:before {
+    content: "▸";
+    display: inline-block;
+    font-size: 1.5em;
+    line-height: 1em;
+    margin-right: spacer(sm);
+    position: relative;
+    top: 3px;
+    width: spacer();
+  }
+
+  &:active,
+  &:focus,
+  &:hover {
+    cursor: hand;
+    cursor: pointer;
+  }
+}
+
 button {
   @extend %font-style;
   background: $white;
@@ -72,6 +103,7 @@ h1 {
 h2 {
   font-size: 1.2em;
   margin-top: 0;
+  margin-bottom: spacer();
 }
 
 h3 {
@@ -87,4 +119,8 @@ p {
  */
 .hidden {
   display: none;
+}
+
+.indent {
+  margin-left: spacer();
 }

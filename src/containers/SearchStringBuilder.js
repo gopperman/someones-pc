@@ -9,8 +9,10 @@ import SearchStringResults from '../components/SearchString/Results'
 const SearchStringBuilder = () => {
   return (
     <div className="container">
-      <Header />
-      <Settings />
+      <div className="indent">
+        <Header />
+        <Settings />
+      </div>
       <SearchStringForm />
       <SearchStringResults />
       <Footer />

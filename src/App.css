@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /**
  * variables.scss
  * Use this file to store commonly used variables
@@ -259,6 +260,24 @@ section {
 /**
  * Controls
  */
+.menu {
+  font-size: 1.2em;
+  margin-bottom: 15px; }
+  .menu__option:active, .menu__option:focus, .menu__option:hover {
+    text-decoration: underline; }
+  .menu:before {
+    content: "▸";
+    display: inline-block;
+    font-size: 1.5em;
+    line-height: 1em;
+    margin-right: 10px;
+    position: relative;
+    top: 3px;
+    width: 15px; }
+  .menu:active, .menu:focus, .menu:hover {
+    cursor: hand;
+    cursor: pointer; }
+
 button {
   background: #fff;
   border: 2px solid #222;
@@ -286,7 +305,8 @@ h1 {
 
 h2 {
   font-size: 1.2em;
-  margin-top: 0; }
+  margin-top: 0;
+  margin-bottom: 15px; }
 
 h3 {
   margin: 5px 0; }
@@ -299,3 +319,6 @@ p {
  */
 .hidden {
   display: none; }
+
+.indent {
+  margin-left: 15px; }
