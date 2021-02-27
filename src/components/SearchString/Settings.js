@@ -9,7 +9,12 @@ class Settings extends Component {
       this.settings = element
     }
 
+    this.closeSettings = this.closeSettings.bind(this)
     this.openSettings = this.openSettings.bind(this)
+  }
+
+ closeSettings(event) {
+    this.settings.classList.add('hidden')
   }
 
   openSettings(event) {
@@ -34,7 +39,7 @@ class Settings extends Component {
             <Clear />
           </div>
 
-          <section className="settings__close">
+          <section className="settings__close" onClick={this.closeSettings}>
             <button>Close Settings</button>
           </section>
         </div>
