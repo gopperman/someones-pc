@@ -1,33 +1,46 @@
-import React from 'react'
-import { connect } from 'react-redux'
+import React, { Component } from 'react'
 import Clear from './Clear.js'
 
-const Settings = () => {
-  return (
-    <div>
-      <nav className="menu"><a className="menu__option">Settings</a></nav>
-      <div className="settings hidden">
-        <div className="settings__body">
-          <h2 className="settings__hed">Settings</h2>
+class Settings extends Component {
+  constructor(props) {
+    super(props)
 
-          <section className="filter">
-            <h3>> Filter</h3>
-            <p>Coming soon...</p>
+    this.setSettingsRef = element => {
+      this.settings = element
+    }
+
+    this.openSettings = this.openSettings.bind(this)
+  }
+
+  openSettings(event) {
+    this.settings.classList.remove('hidden')
+  }
+
+  render() {
+    return (
+      <div>
+        <nav className="menu">
+          <a className="menu__option" onClick={this.openSettings}>Settings</a>
+        </nav>
+        <div className="settings hidden" ref={this.setSettingsRef}>
+          <div className="settings__body">
+            <h2 className="settings__hed">Settings</h2>
+
+            <section className="filter">
+              <h3>> Filter</h3>
+              <p>Coming soon...</p>
+            </section>
+
+            <Clear />
+          </div>
+
+          <section className="settings__close">
+            <button>Close Settings</button>
           </section>
-
-          <Clear />
         </div>
-
-        <section className="settings__close">
-          <button>Close Settings</button>
-        </section>
       </div>
-    </div>
-  )
-}
-
-const mapStateToProps = (state) => {
-  return { selectedPKMN: state.selectedPKMN }
+    )
+  }
 }
 
 export default Settings
