@@ -1,0 +1,25 @@
+@import './mixins.scss';
+@import './variables.scss';
+
+$module: 'clear';
+
+.#{$module} {
+  &__warning {
+    &--success {
+      color: $brand-success;
+    }
+  }
+}
+
+@media (min-width: $breakpoint-sm) {
+  .#{$module} {
+    &__warning {
+      display: inline-block;
+      line-height: 35px;
+    }
+
+    &__button {
+      margin-left: spacer(sm);
+    }
+  }
+}

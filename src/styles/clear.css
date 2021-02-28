@@ -1,0 +1,26 @@
+/**
+ * variables.scss
+ * Use this file to store commonly used variables
+ */
+/**
+ * Typography
+ */
+/**
+ * Layout
+ */
+/**
+ * Style
+ */
+/**
+ * variables.scss
+ * Use this file to store commonly used variables
+ */
+.clear__warning--success {
+  color: #29D58F; }
+
+@media (min-width: 480px) {
+  .clear__warning {
+    display: inline-block;
+    line-height: 35px; }
+  .clear__button {
+    margin-left: 10px; } }

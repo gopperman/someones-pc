@@ -15,7 +15,10 @@ function rootReducer(state = initialState, action) {
       return {
         selectedPKMN: state.selectedPKMN.filter( id => id !== +action.payload )
       }
-
+    case "CLEAR_PKMN":
+      return {
+        selectedPKMN: []
+      }
     default:
       return state
   }

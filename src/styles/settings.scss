@@ -1,0 +1,38 @@
+@import './mixins.scss';
+@import './variables.scss';
+
+$module: 'settings';
+
+.#{$module} {
+  background: $white;
+  border: 3px solid $black;
+  padding: spacer();
+  position: fixed;
+  bottom: spacer(xs);
+  top: spacer(xs);
+  left: spacer(xs);
+  right: spacer(xs);
+  z-index: 99;
+
+  &__hed {
+
+  }
+
+  &__body {
+    height: calc(100vh - 45px);
+    padding-bottom: spacer();
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
+
+  &__close {
+    background: $white;
+    margin: 0;
+    padding: spacer(sm);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+  }
+}
