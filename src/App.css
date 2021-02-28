@@ -83,6 +83,46 @@
  * Use this file to store commonly used variables
  */
 /**
+ * Typography
+ */
+#root, button, textarea {
+  font-family: "Lucida Console", monospace;
+  font-weight: bold;
+  font-size: 18px; }
+
+/**
+ * Layout
+ */
+/**
+ * Style
+ */
+/**
+ * variables.scss
+ * Use this file to store commonly used variables
+ */
+.menu {
+  font-size: 1.2em;
+  margin-bottom: 15px; }
+  .menu__option:active, .menu__option:focus, .menu__option:hover {
+    text-decoration: underline; }
+  .menu:before {
+    content: "▸";
+    display: inline-block;
+    font-size: 1.5em;
+    line-height: 1em;
+    margin-right: 10px;
+    position: relative;
+    top: 3px;
+    width: 15px; }
+  .menu:active, .menu:focus, .menu:hover {
+    cursor: hand;
+    cursor: pointer; }
+
+/**
+ * variables.scss
+ * Use this file to store commonly used variables
+ */
+/**
  * variables.scss
  * Use this file to store commonly used variables
  */
@@ -260,24 +300,6 @@ section {
 /**
  * Controls
  */
-.menu {
-  font-size: 1.2em;
-  margin-bottom: 15px; }
-  .menu__option:active, .menu__option:focus, .menu__option:hover {
-    text-decoration: underline; }
-  .menu:before {
-    content: "▸";
-    display: inline-block;
-    font-size: 1.5em;
-    line-height: 1em;
-    margin-right: 10px;
-    position: relative;
-    top: 3px;
-    width: 15px; }
-  .menu:active, .menu:focus, .menu:hover {
-    cursor: hand;
-    cursor: pointer; }
-
 button {
   background: #fff;
   border: 2px solid #222;

@@ -2,6 +2,7 @@
 @import 'styles/mixins.scss';
 @import 'styles/clear.scss';
 @import 'styles/container.scss';
+@import 'styles/menu.scss';
 @import 'styles/searchstring.scss';
 @import 'styles/settings.scss';
 @import 'styles/pkmnList.scss';
@@ -36,37 +37,6 @@ section {
 /**
  * Controls
  */
- .menu {
-  font-size: 1.2em;
-  margin-bottom: spacer();
-
-  &__option {
-    &:active,
-    &:focus,
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
-  &:before {
-    content: "▸";
-    display: inline-block;
-    font-size: 1.5em;
-    line-height: 1em;
-    margin-right: spacer(sm);
-    position: relative;
-    top: 3px;
-    width: spacer();
-  }
-
-  &:active,
-  &:focus,
-  &:hover {
-    cursor: hand;
-    cursor: pointer;
-  }
-}
-
 button {
   @extend %font-style;
   background: $white;
